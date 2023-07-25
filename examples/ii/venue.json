@@ -1,0 +1,29 @@
+    {
+      "id": "dbc17929-fa2e-4453-8f31-c3d4e21e14d0",
+      "name": "The Kentucky Theatre",
+      "slug": "the-kentucky-theatre",
+      "address": "214 East Main Street, Lexington, Kentucky 40507",
+      "g_map_link": "https://goo.gl/maps/3kevicLsj6r",
+      "gps_lat": 38.04445,
+      "gps_long": -84.49513,
+      "gps_alt": 15,
+      "street": "214 East Main Street",
+      "city": "Lexington",
+      "state": "Kentucky",
+      "zip": "40507",
+      "neighborhood": "Aylesford Place",
+      "is_soft_deleted": false,
+      "createdAt": "2018-03-23T01:08:28.924Z",
+      "updatedAt": "2023-05-11T14:57:37.269Z",
+      "DatetimeVenueModel": {
+        "id": "5db6670b-2c7d-481c-befd-b9828eaec07b",
+        "event_id": "fbcd60ad-581e-4018-a3cf-c0fe1fc39f57",
+        "venue_id": "dbc17929-fa2e-4453-8f31-c3d4e21e14d0",
+        "start_time": "2023-06-07T23:15:00.000Z",
+        "end_time": "2023-06-08T01:30:00.000Z",
+        "optional_title": "",
+        "timezone": "US/Eastern",
+        "createdAt": "2023-05-22T00:32:55.086Z",
+        "updatedAt": "2023-05-22T00:32:55.086Z"
+      }
+  }

@@ -1,0 +1,2558 @@
+{
+  "status": "success",
+  "events": [
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "Art on the Town at Tandy Park for Thursday Night live 5PM - 8PM",
+      "createdAt": "2023-05-08T17:57:29.323Z",
+      "description": "<p>Art on the Town presents local artists and craftspeople at Thursday Night Live, 5 – 8 PM, each Thursday night in Tandy Park, 251 W. Main St.&nbsp;&nbsp;Meet the artists and shop their one-of-a-kind jewelry, paintings, woodworking, fiber art, prints, natural soaps and lotions, and other unique gift items.&nbsp;Also enjoy live music, food and drink!</p><p><strong>&nbsp;</strong></p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "27d72348-b9b6-4f85-992c-46497101122d",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/e2c6649d-fbca-4329-982a-0020639d87b5.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "art-on-the-town-at-thursday-night-live",
+      "social_image": "",
+      "tags": [
+        "mode:in-person",
+        "category:gallery-show"
+      ],
+      "ticket_link": "",
+      "title": "Art on the Town at Thursday Night Live",
+      "updatedAt": "2023-05-08T21:09:35.462Z",
+      "venue_id": "06a9661c-a7d2-4775-9e30-d4d50bd13a76",
+      "verified": true,
+      "website_link": "",
+      "date_times": [
+        {
+          "start_time": "2023-06-08T21:00:00.000Z",
+          "end_time": "2023-06-09T00:00:00.000Z",
+          "venue_id": "06a9661c-a7d2-4775-9e30-d4d50bd13a76",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-15T21:00:00.000Z",
+          "end_time": "2023-06-16T00:00:00.000Z",
+          "venue_id": "06a9661c-a7d2-4775-9e30-d4d50bd13a76",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-22T21:00:00.000Z",
+          "end_time": "2023-06-23T00:00:00.000Z",
+          "venue_id": "06a9661c-a7d2-4775-9e30-d4d50bd13a76",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-29T21:00:00.000Z",
+          "end_time": "2023-06-30T00:00:00.000Z",
+          "venue_id": "06a9661c-a7d2-4775-9e30-d4d50bd13a76",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "Bring a lawn chair or a blanket, and join us for some bluegrass music!",
+      "createdAt": "2023-05-27T00:31:34.048Z",
+      "description": "<p>Southland Jamboree is a free Bluegrass Music Concert on Thursday evenings during the summer. Food is available for purchase from food trucks, but you can also bring your picnic and cooler.&nbsp;Well-behaved dogs are also allowed.</p><p>Bring a lawn chair or a blanket, and join us for some bluegrass music! Play an instrument? Bring it with you and join us for the jam after the concert!</p><p><strong>2023 Schedule</strong></p><ul><li>June 1 – Fast Track</li><li>June 8 – Ida Clare</li><li>June 15 – Wildfire Griffins</li><li>June 22 – The Daltons</li><li>June 29 – Branchwater Kin</li><li>July 6 – Gibson Davis &amp; Copper Valley</li><li>July 13 – Wolfpen Branch</li><li>July 20 – Dove Creek</li><li>July 27 – Kentucky Just Us</li><li>August 3 – Rickey Wasson Band</li><li>August 10 – Old Towne Project</li><li>August 17 – Hammertowne</li><li>August 24 – Fenced In</li><li>August 31 – EKU Bluegrass Band</li><li>September 7 – (held for rain date)</li></ul>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "28c61adb-41a0-43f2-b68c-74011c2a95c1",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/7cb1b769-39a2-4481-8302-707856a86d52.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "southland-jamboree",
+      "social_image": "",
+      "tags": [
+        "music",
+        "mode:in-person",
+        "category:multi-day-event"
+      ],
+      "ticket_link": "",
+      "title": "Southland Jamboree",
+      "updatedAt": "2023-05-27T02:35:17.748Z",
+      "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+      "verified": true,
+      "website_link": "https://southlandjamboree.org/schedule/",
+      "date_times": [
+        {
+          "start_time": "2023-06-08T23:00:00.000Z",
+          "end_time": "2023-06-09T01:00:00.000Z",
+          "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-15T23:00:00.000Z",
+          "end_time": "2023-06-16T01:00:00.000Z",
+          "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-22T23:00:00.000Z",
+          "end_time": "2023-06-23T01:00:00.000Z",
+          "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-29T23:00:00.000Z",
+          "end_time": "2023-06-30T01:00:00.000Z",
+          "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-07-06T23:00:00.000Z",
+          "end_time": "2023-07-07T01:00:00.000Z",
+          "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-07-13T23:00:00.000Z",
+          "end_time": "2023-07-14T01:00:00.000Z",
+          "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-07-20T23:00:00.000Z",
+          "end_time": "2023-07-21T01:00:00.000Z",
+          "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-07-27T23:00:00.000Z",
+          "end_time": "2023-07-28T01:00:00.000Z",
+          "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-08-03T23:00:00.000Z",
+          "end_time": "2023-08-04T01:00:00.000Z",
+          "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-08-10T23:00:00.000Z",
+          "end_time": "2023-08-11T01:00:00.000Z",
+          "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-08-17T23:00:00.000Z",
+          "end_time": "2023-08-18T01:00:00.000Z",
+          "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-08-24T23:00:00.000Z",
+          "end_time": "2023-08-25T01:00:00.000Z",
+          "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-08-31T23:00:00.000Z",
+          "end_time": "2023-09-01T01:00:00.000Z",
+          "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-09-07T23:00:00.000Z",
+          "end_time": "2023-09-08T01:00:00.000Z",
+          "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "Live jazz at Central Library",
+      "createdAt": "2023-05-24T10:42:49.435Z",
+      "description": "<p>June: Vibraphonist Rusty Burge and the Phil DeGregg Trio</p><p>July: Retro Nouveau</p><p>August: Mike Wade Quintet</p><p>September: Meghan Pund Quartet</p><p><br></p><p><strong style=\"color: rgb(51, 51, 51); background-color: transparent;\"><em>Jazz: Live at the Library!&nbsp;</em></strong><span style=\"color: rgb(51, 51, 51);\">Jazz: Live at the Library, the series, which began April 12, 2007, takes place in the Lexington Central (downtown) Library Farish Theater on the second Thursday of each month from 7:00 – 8:15 p.m., and is free to the public. The Jazz Arts Foundation is proud to present a monthly series of live jazz performances by some of the region’s best musicians who will bring back to life the golden age of local jazz. Since its inception in March 2007, the series has brought in 237 different top-flight musicians &amp; educators from Lexington, Cincinnati, Bloomington, Columbus, and Louisville areas. International musicians from Brazil and Russia have also performed as part of the Jazz: Live at the Library Concert Series. This concert series is made possible by a generous donation from Jamey Aebersold Jazz, which allows JAF to continue to bring in new musicians and fan favorites to fulfill its mission of “Enhancing the Awareness of Jazz as a Performing Art.”</span></p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "cfb71c27-3bae-4da1-934c-94cac3308a42",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/811e0825-446e-4a87-9a6f-7facb39576ea.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "jazz-at-the-library",
+      "social_image": "",
+      "tags": [
+        "music",
+        "mode:in-person",
+        "category:multi-day-event"
+      ],
+      "ticket_link": "",
+      "title": "Jazz at the Library",
+      "updatedAt": "2023-05-24T10:44:01.295Z",
+      "venue_id": "446e9860-047a-11e8-808e-07b6d0fe568b",
+      "verified": true,
+      "website_link": "https://www.jazzartsfoundation.org/jazz-at-library/",
+      "date_times": [
+        {
+          "start_time": "2023-06-08T23:00:00.000Z",
+          "end_time": "2023-06-09T00:15:00.000Z",
+          "venue_id": "446e9860-047a-11e8-808e-07b6d0fe568b",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-07-13T23:00:00.000Z",
+          "end_time": "2023-07-14T00:15:00.000Z",
+          "venue_id": "446e9860-047a-11e8-808e-07b6d0fe568b",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-08-10T23:00:00.000Z",
+          "end_time": "2023-08-11T00:15:00.000Z",
+          "venue_id": "446e9860-047a-11e8-808e-07b6d0fe568b",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-09-14T23:00:00.000Z",
+          "end_time": "2023-09-15T00:15:00.000Z",
+          "venue_id": "446e9860-047a-11e8-808e-07b6d0fe568b",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "$18 - $25",
+      "bitly_link": null,
+      "brief_description": "Wicked, funny, warm, romantic and touching - The Music Man is family entertainment at its best!",
+      "createdAt": "2023-05-09T23:45:27.707Z",
+      "description": "<p>Wicked, funny, warm, romantic and touching - <em>The Music Man</em> is family entertainment at its best! Meredith Willson's six-time, Tony Award-winning musical comedy has been entertaining audiences since 1957 and is a family-friendly story to be shared with every generation.</p><p><em>The Music Man</em> follows fast-talking traveling salesman, Harold Hill, as he cons the people of River City, Iowa into buying instruments and uniforms for a boys band that he vows to organize – this, despite the fact that he doesn't know a trombone from a treble clef. His plans to skip town with the cash are foiled when he falls for Marian, the librarian, who transforms him into a respectable citizen.</p><p>Directed by Matthew Winters | Music Direction by Andi Wilson | Choreography by Ashley Holbrook Oldham</p>",
+      "eventbrite_link": null,
+      "fb_event_link": "https://www.facebook.com/events/992967075443497/",
+      "id": "540992a0-4f91-4b82-a25c-10ec47160365",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/5ac1c176-01fe-49ff-8c43-c054b5ccb2fa.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "the-music-man",
+      "social_image": "",
+      "tags": [
+        "theater",
+        "music",
+        "mode:in-person",
+        "category:multi-day-event"
+      ],
+      "ticket_link": "https://ci.ovationtix.com/34344/production/1127048",
+      "title": "The Music Man",
+      "updatedAt": "2023-05-10T11:37:32.613Z",
+      "venue_id": "376d3e40-452a-11e9-b43e-456ed9f9b823",
+      "verified": true,
+      "website_link": "",
+      "date_times": [
+        {
+          "start_time": "2023-06-08T23:30:00.000Z",
+          "end_time": "2023-06-09T01:30:00.000Z",
+          "venue_id": "376d3e40-452a-11e9-b43e-456ed9f9b823",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-09T23:30:00.000Z",
+          "end_time": "2023-06-10T01:30:00.000Z",
+          "venue_id": "376d3e40-452a-11e9-b43e-456ed9f9b823",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-10T23:30:00.000Z",
+          "end_time": "2023-06-11T01:30:00.000Z",
+          "venue_id": "376d3e40-452a-11e9-b43e-456ed9f9b823",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-11T18:00:00.000Z",
+          "end_time": "2023-06-11T20:00:00.000Z",
+          "venue_id": "376d3e40-452a-11e9-b43e-456ed9f9b823",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "$15",
+      "bitly_link": null,
+      "brief_description": "w/ Abby Holliday | All-ages, doors at 7",
+      "createdAt": "2023-06-03T23:29:18.738Z",
+      "description": "<p>w/ Abby Holliday</p><p>Indoor Show</p><p>All ages</p><p>Doors 7:00PM | Show 8:00PM</p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "2e22a2a0-497f-405f-aadb-312c077f4fd1",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/c58c6766-f21c-4531-bbbc-2310314b3818.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "michigander",
+      "social_image": "",
+      "tags": [
+        "music",
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "https://www.theburltickets.com/events/buy-tickets/HmoVGdx75YcTgrDjvikA",
+      "title": "Michigander",
+      "updatedAt": "2023-06-04T00:08:15.686Z",
+      "venue_id": "d9107b10-0479-11e8-808e-07b6d0fe568b",
+      "verified": true,
+      "website_link": "",
+      "date_times": [
+        {
+          "start_time": "2023-06-09T00:00:00.000Z",
+          "end_time": "2023-06-09T06:00:00.000Z",
+          "venue_id": "d9107b10-0479-11e8-808e-07b6d0fe568b",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "An exhibition of works expressed through the media of instruments by luthier Ben Mason, and artist J. Daniel Graham.",
+      "createdAt": "2023-06-06T01:02:33.899Z",
+      "description": "<p>An exhibition of works expressed through the media of instruments by luthier Ben Mason, and artist J. Daniel Graham. Ranging from traditional techniques to experimental materials, and processes,&nbsp;these instruments explore the connections to present and future history.</p><p>Anyone that ventures into the world of instrument making almost always find themselves collaborating with the past. No matter the approach one recognizes that they are part of a connective tissue, a continuing thread that reaches backward, while simultaneously moving forward. This exhibition is documenting a crossover in that connective thread of past and future history.</p><p>Luthier Ben Mason, and Artist J. Daniel Graham approach their instrument making practice from divergent perspectives while sharing similar goals at the base of their craft. Mason pursues a deep technical understanding of material and its performative qualities, while fine tuning a personal craft identity linked to the great tradition of luthiers. Graham champions an exploratory curiosity, pushing the context of traditional materials while still staying connected to the craft, all the while driving the purpose and concept of the instrument into the aesthetics of a functional Art object.</p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "4ac393ed-a270-4691-ac5d-c1fe074d4aed",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/3913a720-12af-4b0f-ab2d-e387a71e4f5d.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "string-theories",
+      "social_image": "",
+      "tags": [
+        "gallery",
+        "mode:in-person",
+        "category:gallery-show"
+      ],
+      "ticket_link": "",
+      "title": "String Theories",
+      "updatedAt": "2023-06-06T19:58:39.221Z",
+      "venue_id": "28eed072-7ef6-4726-b3a4-bc7bbe0ee3a1",
+      "verified": true,
+      "website_link": "https://www.lexingtonky.gov/city-gallery",
+      "date_times": [
+        {
+          "start_time": "2023-06-09T15:00:00.000Z",
+          "end_time": "2023-06-10T00:00:00.000Z",
+          "venue_id": "28eed072-7ef6-4726-b3a4-bc7bbe0ee3a1",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-08-05T15:00:00.000Z",
+          "end_time": "2023-08-05T21:00:00.000Z",
+          "venue_id": "28eed072-7ef6-4726-b3a4-bc7bbe0ee3a1",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "$10",
+      "bitly_link": null,
+      "brief_description": "A concert at Void Sake Co",
+      "createdAt": "2023-05-11T14:51:50.060Z",
+      "description": "<p>A special night of music planned with Kentucky's own Dark Moon Hollow!</p><p>Doors at 6:00pm and show starting at 7:00pm with support TBD!</p><p>From their bio:</p><p>Since the winter of 2017, Dark Moon Hollow has seen numerous members come and go, from notable projects all over the Bluegrass State. Originally forming from improv jams in kitchens, livingrooms, etc. late into the Lexington nights, a core was formed and brought to stages in various forms over the next 5 years. In what could be described as a constant evolution of artists, Dark Moon Hollow has had many song writers, with original member \"Trigger\" Trey being the one constant on both studio albums.</p><p>With the help of JD Thomas (Building Rockets, Charlie Woods and Deep Hollow), Ishi Wooton (Restless Leg String Band, Bloodroots Barter), Riley Logan (Forrest), and Thomas Keathley (Dillon Carmichael, Moonshine District), the band's current lineup brings together a mixture of honky tonk, traditional bluegrass, and both psychadelic and southern rock. The eclectic group can only be described as high energy, no matter the tempo. Noted for powerful harmonies, their goal is to make the best music that speaks not only to themselves but one another and their fanbase as well.</p><p><a href=\"https://www.darkmoonhollow.com\" rel=\"noopener noreferrer\" target=\"_blank\">www.darkmoonhollow.com</a></p><p>Due to the extremely limited nature of this event, all sales are final, no refunds or exchanges.</p><p><br></p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "0a87f00d-6408-43bb-960d-0d1eb027b25a",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/099d53b9-6cd7-40a1-aa14-df7954a22eed.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "dark-moon-hollow",
+      "social_image": "",
+      "tags": [
+        "music",
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "",
+      "title": "Dark Moon Hollow",
+      "updatedAt": "2023-05-12T02:07:47.867Z",
+      "venue_id": "c1cc9016-d902-4493-a138-df817c793477",
+      "verified": true,
+      "website_link": "https://www.thevoidsake.com/events",
+      "date_times": [
+        {
+          "start_time": "2023-06-09T22:00:00.000Z",
+          "end_time": "2023-06-10T03:00:00.000Z",
+          "venue_id": "c1cc9016-d902-4493-a138-df817c793477",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "Friday Flicks offers a great evening of entertainment for all ages, including a free movie and fun activities.",
+      "createdAt": "2023-06-02T12:36:15.953Z",
+      "description": "<p>Friday Flicks at Jacobson Park offers a great evening of entertainment for all ages, including a free movie and fun activities. Bring your lawn chairs or blankets for seating. Food vendors will be on-site, or you are welcome to bring your own picnic. Lexington Parks and Recreation's Friday Flicks is sponsored by J &amp; T's Italian Ice who will serve their delicious Italian ice at the event. Other concessions include&nbsp;Piggin' Out Food Truck, West Sixth Brewery, Bluegrass Kettlemasters Kettlecorn, Wise Bird Cider Co., and on select dates&nbsp;Churreria&nbsp;la&nbsp;Coneja, Bluegrass Concessions, and The Flying Waffle Food Truck.&nbsp;</p><p>For safety, pets are not permitted for this event. Pre-movie activities include children's games, free temporary tattoos, petting zoo, non-profits, and a preshow themed around that night's movie. Activities begin at 7 p.m. with the movie starting at dark.</p><p>2023 Movie Schedule:</p><ul><li>June 2: <em>Turning Red</em></li><li>June 9: <em>Lightyear</em></li><li>June 16: <em>The Bad Guys</em></li><li>June 23: <em>Puss in Boots: The Last Wish</em></li><li>June 30: <em>Minions: The Rise of Gru</em></li></ul>",
+      "eventbrite_link": null,
+      "fb_event_link": "https://www.facebook.com/events/964608621205814/",
+      "id": "3636d155-3689-423f-9557-789eb47697f7",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/7130dd25-fd11-4431-ad7b-2ac17068cb61.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "friday-flicks",
+      "social_image": "",
+      "tags": [
+        "film",
+        "mode:in-person",
+        "category:multi-day-event"
+      ],
+      "ticket_link": "",
+      "title": "Friday Flicks",
+      "updatedAt": "2023-06-02T15:54:54.592Z",
+      "venue_id": "d659728e-29b4-4525-9b68-3016ca95a932",
+      "verified": true,
+      "website_link": "https://www.lexingtonky.gov/friday-flicks",
+      "date_times": [
+        {
+          "start_time": "2023-06-09T23:00:00.000Z",
+          "end_time": "2023-06-10T02:00:00.000Z",
+          "venue_id": "d659728e-29b4-4525-9b68-3016ca95a932",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-16T23:00:00.000Z",
+          "end_time": "2023-06-17T02:00:00.000Z",
+          "venue_id": "d659728e-29b4-4525-9b68-3016ca95a932",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-23T23:00:00.000Z",
+          "end_time": "2023-06-24T02:00:00.000Z",
+          "venue_id": "d659728e-29b4-4525-9b68-3016ca95a932",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-30T23:00:00.000Z",
+          "end_time": "2023-07-01T02:00:00.000Z",
+          "venue_id": "d659728e-29b4-4525-9b68-3016ca95a932",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "Two independent artists hope to bring something a little different to Kenwick Table. Drew Charron - Keyboard and Synthesizers with vocals. Darron Sturgill - 12 String Guitar and vocals.",
+      "createdAt": "2023-05-22T21:15:38.482Z",
+      "description": "",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "3635c0c9-974d-4c5d-aa6f-8a3ffc536172",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/9bec6448-34b2-4fe4-b005-a0b0a89c10ec.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "drew-charron-at-kenwick-table-w/-darron-sturgill",
+      "social_image": "",
+      "tags": [
+        "music",
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "",
+      "title": "Drew Charron at Kenwick Table w/ Darron Sturgill",
+      "updatedAt": "2023-05-23T03:28:57.891Z",
+      "venue_id": "c562003a-f940-41ba-ac6f-82ebfbabd702",
+      "verified": true,
+      "website_link": "https://www.drewcharronmusic.com/",
+      "date_times": [
+        {
+          "start_time": "2023-06-09T23:00:00.000Z",
+          "end_time": "2023-06-10T01:00:00.000Z",
+          "venue_id": "c562003a-f940-41ba-ac6f-82ebfbabd702",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "What better way to unwind after a long week than at an open-air concert with friends. Especially when the concert is free!",
+      "createdAt": "2023-05-26T13:07:57.842Z",
+      "description": "<p>What better way to unwind after a long week than at an open-air concert with friends. Especially when the concert is free!</p><p>Moondance Amphitheater will once again offer a summer concert series featuring genres to include jazz, bluegrass, indie rock, blues&nbsp;and folk, just to name a few. In addition to the live music, there will also be food trucks. Bring your lawn chairs/blankets and come enjoy the music.</p><p><strong>Performance Schedule:</strong></p><ul><li>May 26 – The Other Brothers</li><li>June 9 – Bedford</li><li>June 23 – Run Katie Run</li><li>July 7 – The Minks</li><li>July 21 – Born Cross Eyed</li><li>August 4 – Milenio Salsa Band &amp; The Salsa Center&nbsp;</li><li>August 18 – Honeychild</li><li>September 1 – Baja Yetis</li></ul>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "4a6c95a1-0040-40d9-a624-23de3ff489ac",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/3a5a2695-df4d-4679-9335-fb72bb5a4b01.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "summer-nights-in-suburbia",
+      "social_image": "",
+      "tags": [
+        "music",
+        "mode:in-person",
+        "category:multi-day-event"
+      ],
+      "ticket_link": "",
+      "title": "Summer Nights in Suburbia",
+      "updatedAt": "2023-05-27T02:34:21.170Z",
+      "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+      "verified": true,
+      "website_link": "https://www.lexingtonky.gov/summer-nights-suburbia",
+      "date_times": [
+        {
+          "start_time": "2023-06-09T23:00:00.000Z",
+          "end_time": "2023-06-10T01:00:00.000Z",
+          "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-23T23:00:00.000Z",
+          "end_time": "2023-06-24T01:00:00.000Z",
+          "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-07-07T23:00:00.000Z",
+          "end_time": "2023-07-08T01:00:00.000Z",
+          "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-07-21T23:00:00.000Z",
+          "end_time": "2023-07-22T01:00:00.000Z",
+          "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-08-04T23:00:00.000Z",
+          "end_time": "2023-08-05T01:00:00.000Z",
+          "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-08-18T23:00:00.000Z",
+          "end_time": "2023-08-19T01:00:00.000Z",
+          "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-09-01T23:00:00.000Z",
+          "end_time": "2023-09-02T01:00:00.000Z",
+          "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "$65 Adults / $20 Students",
+      "bitly_link": null,
+      "brief_description": " For over 30 years, the University of Kentucky Opera Theatre has been delighting summertime audiences with the Emmy Award-winning singalong spectacular, featuring the best of Broadway from today and yesterday. Join us for a celebration with the best and brightest talent in Central Kentucky.",
+      "createdAt": "2023-05-24T01:53:39.941Z",
+      "description": "<p>For over 30 years, the University of Kentucky Opera Theatre has been delighting summertime audiences with the Emmy Award-winning singalong spectacular, featuring the best of Broadway from today and yesterday. Join us for a celebration with the best and brightest talent in Central Kentucky.</p><p>Discounted tickets for University of Kentucky Faculty &amp; Staff are available directly from the Singletary Center Ticket Office.</p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "b6a1e946-e7d6-4d1f-8091-1f4397532781",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/58e68b3a-1719-4826-aa55-fb269c2b5d21.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "-uk-opera-theatre-presents:-it's-a-grand-night-for-singing!",
+      "social_image": "",
+      "tags": [
+        "theater",
+        "music",
+        "mode:in-person",
+        "category:multi-day-event"
+      ],
+      "ticket_link": "https://www.etix.com/ticket/p/4228029/its-a-grand-night-for-singing2023-presented-by-uk-opera-theatre-lexington-singletary-center",
+      "title": " UK Opera Theatre presents: It's A Grand Night for Singing!",
+      "updatedAt": "2023-05-24T10:43:48.148Z",
+      "venue_id": "29d471f0-047a-11e8-808e-07b6d0fe568b",
+      "verified": true,
+      "website_link": "https://finearts.uky.edu/music/events/uk-opera-theatre-presents-its-grand-night-singing",
+      "date_times": [
+        {
+          "start_time": "2023-06-09T23:30:00.000Z",
+          "end_time": "2023-06-10T01:30:00.000Z",
+          "venue_id": "29d471f0-047a-11e8-808e-07b6d0fe568b",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-10T18:00:00.000Z",
+          "end_time": "2023-06-10T20:00:00.000Z",
+          "venue_id": "29d471f0-047a-11e8-808e-07b6d0fe568b",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-10T23:30:00.000Z",
+          "end_time": "2023-06-11T01:30:00.000Z",
+          "venue_id": "29d471f0-047a-11e8-808e-07b6d0fe568b",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-11T22:00:00.000Z",
+          "end_time": "2023-06-12T00:00:00.000Z",
+          "venue_id": "29d471f0-047a-11e8-808e-07b6d0fe568b",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-16T23:30:00.000Z",
+          "end_time": "2023-06-17T01:30:00.000Z",
+          "venue_id": "29d471f0-047a-11e8-808e-07b6d0fe568b",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-17T18:00:00.000Z",
+          "end_time": "2023-06-17T20:00:00.000Z",
+          "venue_id": "29d471f0-047a-11e8-808e-07b6d0fe568b",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-17T23:30:00.000Z",
+          "end_time": "2023-06-18T01:30:00.000Z",
+          "venue_id": "29d471f0-047a-11e8-808e-07b6d0fe568b",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-18T18:00:00.000Z",
+          "end_time": "2023-06-18T20:00:00.000Z",
+          "venue_id": "29d471f0-047a-11e8-808e-07b6d0fe568b",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "$15",
+      "bitly_link": null,
+      "brief_description": "w/ Casey Powell & Maggie Lander | All-ages show, doors at 7",
+      "createdAt": "2023-06-03T23:31:25.347Z",
+      "description": "<p>w/ Casey Powell &amp; Maggie Lander</p><p>Indoor show</p><p>All ages</p><p>Doors 7:00PM | Show 8:00PM</p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "b2519910-7341-477b-aad3-e2a421542784",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/8542130b-d5be-4f75-94ee-d89579f4eeaf.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "joslyn-&-the-sweet-compression",
+      "social_image": "",
+      "tags": [
+        "music",
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "https://www.theburltickets.com/events/buy-tickets/0HhL5sIqcv97u0rjbciM",
+      "title": "Joslyn & The Sweet Compression",
+      "updatedAt": "2023-06-04T00:08:21.820Z",
+      "venue_id": "d9107b10-0479-11e8-808e-07b6d0fe568b",
+      "verified": true,
+      "website_link": "",
+      "date_times": [
+        {
+          "start_time": "2023-06-10T00:00:00.000Z",
+          "end_time": "2023-06-10T06:00:00.000Z",
+          "venue_id": "d9107b10-0479-11e8-808e-07b6d0fe568b",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "$25",
+      "bitly_link": null,
+      "brief_description": "It's 1956, and the Susan B. Anthony Society for the Sisters of Gertrude Stein has its annual quiche breakfast.",
+      "createdAt": "2023-05-25T01:32:24.983Z",
+      "description": "<p>It's 1956, and the Susan B. Anthony Society for the Sisters of Gertrude Stein has its annual quiche breakfast. The normally idyllic gathering, where the motto is \"no men, no meat, all manners,\" is upended when the Society's matriarchs must confront the startling revelation that an atom bomb may be falling on their fair city. As fears are confronted, and confessions fly, the chipper ladies stay firm in their commitment that the quiche is a mighty thing and that one must \"respect the egg.\"</p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "af15f4f9-d672-4bf7-9d28-ba5abb978234",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/842035c1-b6ae-482c-82fe-6bcbf0f253fd.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "actout-theatre-group-presents:-5-lesbians-eating-a-quiche",
+      "social_image": "",
+      "tags": [
+        "theater",
+        "mode:in-person",
+        "category:multi-day-event"
+      ],
+      "ticket_link": "https://ci.ovationtix.com/36286/production/1161498",
+      "title": "ActOut Theatre Group Presents: 5 Lesbians Eating A Quiche",
+      "updatedAt": "2023-05-25T15:23:16.226Z",
+      "venue_id": "28eed072-7ef6-4726-b3a4-bc7bbe0ee3a1",
+      "verified": true,
+      "website_link": "https://www.lexingtonky.gov/black-box-theatre",
+      "date_times": [
+        {
+          "start_time": "2023-06-10T00:00:00.000Z",
+          "end_time": "2023-06-10T02:00:00.000Z",
+          "venue_id": "28eed072-7ef6-4726-b3a4-bc7bbe0ee3a1",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-11T00:00:00.000Z",
+          "end_time": "2023-06-11T02:00:00.000Z",
+          "venue_id": "28eed072-7ef6-4726-b3a4-bc7bbe0ee3a1",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-17T00:00:00.000Z",
+          "end_time": "2023-06-17T02:00:00.000Z",
+          "venue_id": "28eed072-7ef6-4726-b3a4-bc7bbe0ee3a1",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-18T00:00:00.000Z",
+          "end_time": "2023-06-18T02:00:00.000Z",
+          "venue_id": "28eed072-7ef6-4726-b3a4-bc7bbe0ee3a1",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-18T18:00:00.000Z",
+          "end_time": "2023-06-18T20:00:00.000Z",
+          "venue_id": "28eed072-7ef6-4726-b3a4-bc7bbe0ee3a1",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "All ages. $12 advanced tickets, $15 at the door",
+      "bitly_link": null,
+      "brief_description": "It’s 1999. The Matrix just came out and Zao’s Where Blood and Fire Bring Rest came out the year before. That is the vibe for this whole night. ",
+      "createdAt": "2023-06-08T03:31:08.214Z",
+      "description": "<p>It’s 1999. The Matrix just came out and Zao’s Where Blood and Fire Bring Rest came out the year before. That is the vibe for this whole night. First show for Eternal Wound and Surfaced first time in Lexington. You know the move. </p><p><br></p><p>Flyer design by @8fiveninedesign.</p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "9ede9605-c010-4273-9714-ab55e691c5d3",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/69b0b8ab-ff65-427a-98d1-15790648bb0b.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "act-of-treachery-release-show-!-from-joy,-age-of-panic,-waydown,-raptured,-surfaced,-&-eternal-wound-live",
+      "social_image": "",
+      "tags": [
+        "music",
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "",
+      "title": "Act of Treachery release show ! From Joy, Age of Panic, Waydown, Raptured, Surfaced, & Eternal Wound live",
+      "updatedAt": "2023-06-08T03:42:56.879Z",
+      "venue_id": "0314c750-42a2-11ea-abf2-8dc9e627a96d",
+      "verified": true,
+      "website_link": "",
+      "date_times": [
+        {
+          "start_time": "2023-06-10T00:30:00.000Z",
+          "end_time": "2023-06-10T03:30:00.000Z",
+          "venue_id": "0314c750-42a2-11ea-abf2-8dc9e627a96d",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "Art on the Town presents local artists and craftspeople each Saturday at the downtown Farmer’s Market, 8 AM – 2 PM, in Tandy Park, 251 W. Main St.  Meet the artists and shop their one-of-a-kind jewelry, paintings, woodworking, fiber art, prints, natural soaps and lotions, and other unique gift items.   It’s all Local.  All Handmade.  ",
+      "createdAt": "2023-04-03T19:48:40.691Z",
+      "description": "<p>Art on the Town presents local artists and craftspeople each Saturday at the downtown Farmer’s Market, 8 AM – 2 PM, in Tandy Park, 251 W. Main St.&nbsp;Meet the artists and shop their one-of-a-kind jewelry, paintings, woodworking, fiber art, prints, natural soaps and lotions, and other unique gift items.&nbsp;&nbsp;It’s all Local.&nbsp;All Handmade.&nbsp;&nbsp;</p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "268fad18-ce99-4d52-bf1d-328cd5dd87fd",
+      "image": "https://s3-us-west-2.amazonaws.com/infinite-industries-event-images/uploads/d0d263bb-4324-4990-9081-349f43816ab9.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "art-on-the-town-farmers-market",
+      "social_image": "",
+      "tags": [
+        "craft",
+        "art",
+        "jewelry",
+        "fiber art",
+        "mode:in-person",
+        "category:gallery-show"
+      ],
+      "ticket_link": "",
+      "title": "Art on the Town Farmers Market",
+      "updatedAt": "2023-04-05T22:33:25.959Z",
+      "venue_id": "06a9661c-a7d2-4775-9e30-d4d50bd13a76",
+      "verified": true,
+      "website_link": "",
+      "date_times": [
+        {
+          "start_time": "2023-06-10T12:00:00.000Z",
+          "end_time": "2023-06-10T18:00:00.000Z",
+          "venue_id": "06a9661c-a7d2-4775-9e30-d4d50bd13a76",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-17T12:00:00.000Z",
+          "end_time": "2023-06-17T18:00:00.000Z",
+          "venue_id": "06a9661c-a7d2-4775-9e30-d4d50bd13a76",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-24T12:00:00.000Z",
+          "end_time": "2023-06-24T18:00:00.000Z",
+          "venue_id": "06a9661c-a7d2-4775-9e30-d4d50bd13a76",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-07-01T12:00:00.000Z",
+          "end_time": "2023-07-01T18:00:00.000Z",
+          "venue_id": "06a9661c-a7d2-4775-9e30-d4d50bd13a76",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-07-08T12:00:00.000Z",
+          "end_time": "2023-07-08T18:00:00.000Z",
+          "venue_id": "06a9661c-a7d2-4775-9e30-d4d50bd13a76",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-07-15T12:00:00.000Z",
+          "end_time": "2023-07-15T18:00:00.000Z",
+          "venue_id": "06a9661c-a7d2-4775-9e30-d4d50bd13a76",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-07-22T12:00:00.000Z",
+          "end_time": "2023-07-22T18:00:00.000Z",
+          "venue_id": "06a9661c-a7d2-4775-9e30-d4d50bd13a76",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-07-29T12:00:00.000Z",
+          "end_time": "2023-07-29T18:00:00.000Z",
+          "venue_id": "06a9661c-a7d2-4775-9e30-d4d50bd13a76",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-08-05T12:00:00.000Z",
+          "end_time": "2023-08-05T18:00:00.000Z",
+          "venue_id": "06a9661c-a7d2-4775-9e30-d4d50bd13a76",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "Join us for a panel discussion and signing with Author Karen Katchur and Editor Melissa Frain. Q&A session with the relationship of Author & Editor.",
+      "createdAt": "2023-03-27T14:53:44.659Z",
+      "description": "<p><strong>When a kidnapping goes awry, three desperate characters find themselves trapped inside a remote cabin with a baby and a bag full of money.</strong></p><p><br></p><p>Noah is a kidnapper, hired to buy a baby from a human trafficking ring and smuggle her across the Canadian border for a cool half a million dollars. Eve is a teenage runaway, who takes the infant-and the sack full of cash-away from him. Hester is an outcast, living alone in a backwoods cottage, harboring secrets of her own. When their paths cross, it's anyone's guess who'll come out on top.</p><p><br></p><p>With the law hot on their trail and the traffickers' hired guns closing in, this unlikely trio is soon holed up together-and at one another's throats. They'll stop at nothing to save their own skins and escape with the loot and child. But which of the greedy three will be the last one standing? One thing's for sure: no one will emerge unscathed . . .</p><p><br></p><p>Wildly inventive and darkly comic, this new thriller from the bestselling author of&nbsp;<em>River Bodies</em>&nbsp;is perfect for fans of Jane Harper, Jennifer Hillier,&nbsp;<em>Mare of Easttown</em>, and the Coen brothers. </p><p> </p><p> <strong>Praise for&nbsp;<em>The Greedy Three</em></strong></p><p><br></p><p>\"Tense, darkly funny, and deeply entertaining, with quirky characters that are wholly original. Katchur's clever crime thriller surprised me in all the best ways and kept me riveted till the very last page.\" -Laura McHugh, award-winning author of&nbsp;<em>What's Done in Darkness</em></p><p><br></p><p>\"A darkly funny mystery with a cast of quirky characters, a scintillating premise, and a beating heart. It's the perfect book for fans of the Coen brothers and Tarantino films.\" -Robyn Harding, bestselling author of&nbsp;<em>The Perfect Family</em></p><p><br></p><p><strong>Praise for Karen Katchur</strong></p><p><br></p><p>\"Karen Katchur is a master at writing into the dark spaces of our intimate family relationships.\" -Mindy Mejia, author of&nbsp;<em>Everything You Want Me to Be</em></p><p><br></p><p>\"I'm entranced by Karen Katchur's direct, well-crafted prose, artful plotting, and characters that leap from the page.\" -Marissa Stapley, bestselling author of&nbsp;<em>Things to Do When It's Raining</em></p><p><br></p><p>\"Karen Katchur knows how to write and write well about ordinary people stretched to their limits.\" -David Bell, bestselling author of&nbsp;<em>The Forgotten Girl</em></p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "737bc5bc-8c05-4c25-b2a7-86ad7d4889c7",
+      "image": "https://s3-us-west-2.amazonaws.com/infinite-industries-event-images/uploads/42e91e86-3264-4046-a7b9-6606d810e3a8.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "author-karen-katchur-presents:-the-greedy-three.-with-editor-melissa-frain-in-a-panel-discussion.",
+      "social_image": "",
+      "tags": [
+        "talk",
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "",
+      "title": "Author Karen Katchur presents: The Greedy Three. With editor Melissa Frain in a panel discussion.",
+      "updatedAt": "2023-03-27T15:19:53.315Z",
+      "venue_id": null,
+      "verified": true,
+      "website_link": "https://stores.barnesandnoble.com/event/9780062156056-0",
+      "date_times": [
+        {
+          "start_time": "2023-06-10T15:00:00.000Z",
+          "end_time": "2023-06-10T16:00:00.000Z",
+          "venue_id": null,
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "Food, fun and crafts and music for the whole family",
+      "createdAt": "2023-03-27T20:24:54.657Z",
+      "description": "<p>There’s fun for the whole family at the Southland Street Fair, presented by Traditional Bank. Featuring food, entertainment, local vendors and more. Located near the corner of Southland Drive and Rosemont Garden in Lexington.</p>",
+      "eventbrite_link": null,
+      "fb_event_link": "https://www.facebook.com/SouthlandStreetFair",
+      "id": "0669044b-1e5e-4e12-b27e-2b18a1806bcb",
+      "image": "https://s3-us-west-2.amazonaws.com/infinite-industries-event-images/uploads/d6926b8d-972f-4bff-b128-1ed07c5251df.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "southland-street-fair",
+      "social_image": "",
+      "tags": [
+        "music",
+        "festival",
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "",
+      "title": "Southland Street Fair",
+      "updatedAt": "2023-03-30T04:00:09.470Z",
+      "venue_id": null,
+      "verified": true,
+      "website_link": "https://www.southlandassociation.com/southland-street-fair",
+      "date_times": [
+        {
+          "start_time": "2023-06-10T19:00:00.000Z",
+          "end_time": "2023-06-11T00:00:00.000Z",
+          "venue_id": null,
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "$10",
+      "bitly_link": null,
+      "brief_description": " ",
+      "createdAt": "2023-06-08T03:36:40.305Z",
+      "description": "<p>All ages, doors at 8p &amp; hits at 9p</p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "7a20ad1c-417c-4bf0-95ef-c7839dfdf677",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/e0d4a9f0-abc6-4a2e-8e53-dfb9471e55f0.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "violent-dawn-release-show!-w/-sun-shy-&-backburner",
+      "social_image": "",
+      "tags": [
+        "music",
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "",
+      "title": "Violent Dawn Release Show! w/ Sun Shy & Backburner",
+      "updatedAt": "2023-06-08T03:43:45.478Z",
+      "venue_id": "0314c750-42a2-11ea-abf2-8dc9e627a96d",
+      "verified": true,
+      "website_link": "",
+      "date_times": [
+        {
+          "start_time": "2023-06-11T00:00:00.000Z",
+          "end_time": "2023-06-11T04:00:00.000Z",
+          "venue_id": "0314c750-42a2-11ea-abf2-8dc9e627a96d",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "$15",
+      "bitly_link": null,
+      "brief_description": "Indoor, 18+ show | Doors at 7",
+      "createdAt": "2023-06-03T23:32:44.007Z",
+      "description": "<p>Indoor show</p><p>18+</p><p>Doors 7:00 PM | Show 8:00 PM</p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "6c5c6efb-1add-468e-ad38-d1bc16eb5384",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/2cfce416-dee4-4c77-a0b6-685e85e721bc.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "born-cross-eyed",
+      "social_image": "",
+      "tags": [
+        "music",
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "https://www.theburltickets.com/events/buy-tickets/nKC2EvM6S17uCnAV6F18",
+      "title": "Born Cross Eyed",
+      "updatedAt": "2023-06-04T00:08:29.007Z",
+      "venue_id": "d9107b10-0479-11e8-808e-07b6d0fe568b",
+      "verified": true,
+      "website_link": "",
+      "date_times": [
+        {
+          "start_time": "2023-06-11T00:00:00.000Z",
+          "end_time": "2023-06-11T06:00:00.000Z",
+          "venue_id": "d9107b10-0479-11e8-808e-07b6d0fe568b",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "$125",
+      "bitly_link": null,
+      "brief_description": "Join us for an intimate dinner by Chef Ouita Michel of Holly Hill and concert by The Local Honeys in our historic tobacco barn, and bid on incredible auction experiences. All proceeds from this fundraiser support JSP land conservation.",
+      "createdAt": "2023-04-06T17:24:45.830Z",
+      "description": "<p>Join us for an intimate dinner by Chef Ouita Michel of Holly Hill and concert by The Local Honeys in our historic tobacco barn, and bid on incredible auction experiences. All proceeds from this fundraiser support JSP land conservation.</p>",
+      "eventbrite_link": "https://www.eventbrite.com/e/barn-raisin-conservation-culture-cuisine-tickets-601565868707",
+      "fb_event_link": "https://fb.me/e/18niOgwUV",
+      "id": "c8cf2fb2-5b17-4cb8-b85f-8a7915abc9e8",
+      "image": "https://s3-us-west-2.amazonaws.com/infinite-industries-event-images/uploads/31ada3b0-c3ce-481d-9296-da632e045eee.jpg",
+      "links": [],
+      "reviewed_by_org": "wrfl",
+      "slug": "barn-raisin'---conservation,-culture-&-cuisine",
+      "social_image": "",
+      "tags": [
+        "music",
+        "gallery",
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "https://www.eventbrite.com/e/barn-raisin-conservation-culture-cuisine-tickets-601565868707",
+      "title": "Barn Raisin' - Conservation, Culture & Cuisine",
+      "updatedAt": "2023-04-06T20:18:11.834Z",
+      "venue_id": "df4e289b-08ff-4561-97fc-4a227210486b",
+      "verified": true,
+      "website_link": "https://www.josephinesculpturepark.org/events",
+      "date_times": [
+        {
+          "start_time": "2023-06-11T20:00:00.000Z",
+          "end_time": "2023-06-12T00:00:00.000Z",
+          "venue_id": "df4e289b-08ff-4561-97fc-4a227210486b",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "$15",
+      "bitly_link": null,
+      "brief_description": "w/ Dana Vogel | All-ages show, doors at 7",
+      "createdAt": "2023-06-03T23:34:27.773Z",
+      "description": "<p>w/ Dana Vogel</p><p>Indoor show</p><p>All Ages</p><p>Doors 7:00 PM | Show 8:00 PM</p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "7298d084-610f-474a-bc51-db68ebe0da50",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/a8ae30e1-726c-41b4-a9f8-726e9d5f5da3.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "anand-wilder",
+      "social_image": "",
+      "tags": [
+        "music",
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "https://www.theburltickets.com/events/buy-tickets/DlJCDNN8NXgJaz9efsvD",
+      "title": "Anand Wilder",
+      "updatedAt": "2023-06-04T00:08:36.209Z",
+      "venue_id": "d9107b10-0479-11e8-808e-07b6d0fe568b",
+      "verified": true,
+      "website_link": "",
+      "date_times": [
+        {
+          "start_time": "2023-06-12T00:00:00.000Z",
+          "end_time": "2023-06-12T06:00:00.000Z",
+          "venue_id": "d9107b10-0479-11e8-808e-07b6d0fe568b",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "The return of spring means the return of one of Lexington's longest-running and most beloved concert series.",
+      "createdAt": "2023-06-04T23:51:36.553Z",
+      "description": "<p>The return of spring means the return of one of Lexington's longest-running and most beloved concert series – Big Band &amp; Jazz. With a full schedule of live music planned, concert-goers can enjoy weekly big band or jazz music at Moondance Amphitheater (May - June) and Ecton Park (July - August).&nbsp;Picnics are encouraged and patrons should bring a lawn chair or blanket for seating.</p><p>Schedule:</p><ul><li><s>May 16 – The MetroGnomes</s> (Canceled due to inclement weather)</li><li>May 23 – Young&nbsp;at Heart Big Band</li><li>May 30 – Bluegrass Area Jazz Ambassadors</li><li>June 6 – Kentucky Jazz Repertory Orchestra</li><li>June 13 – Tim Lake and the Blue Jazz Persuaders</li><li>June 20 – Brett Evans Trombone Jazz Ensemble</li><li>June 27 – Lexington Summer Concert Band</li></ul><p>In July the series moves to <a href=\"https://infinite.industries/events/0e06ffda-5375-473f-aa5e-846c09ac8bb9\" rel=\"noopener noreferrer\" target=\"_blank\">Ecton Park</a>. </p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "5db8bbed-fcc0-435a-a557-c53ce372f027",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/e8cb219f-9e0a-433f-b969-99b49856dae6.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "big-band-&-jazz",
+      "social_image": "",
+      "tags": [
+        "music",
+        "mode:in-person",
+        "category:multi-day-event"
+      ],
+      "ticket_link": "",
+      "title": "Big Band & Jazz",
+      "updatedAt": "2023-06-06T19:59:05.699Z",
+      "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+      "verified": true,
+      "website_link": "https://www.lexingtonky.gov/big-band-jazz",
+      "date_times": [
+        {
+          "start_time": "2023-06-13T23:00:00.000Z",
+          "end_time": "2023-06-14T00:30:00.000Z",
+          "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-20T23:00:00.000Z",
+          "end_time": "2023-06-21T00:30:00.000Z",
+          "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-27T23:00:00.000Z",
+          "end_time": "2023-06-28T00:30:00.000Z",
+          "venue_id": "4a9416d1-abad-487a-973c-8fde5ec2e42f",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "$6.50",
+      "bitly_link": null,
+      "brief_description": "A lavishly produced and critically acclaimed screen adaptation of the international stage sensation.",
+      "createdAt": "2023-05-22T00:35:13.041Z",
+      "description": "<p>For almost two decades, The Kentucky Theatre has screened classic films every Wednesday (matinee and evening) from late May until early September. Over the years, this summer series has proved to be a perennial favorite. From film noir standards like <em>The Maltese Falcon</em> to classic Disney animation like <em>Pinocchio</em> and more recent classics like <em>The Empire Strikes Back</em>, the <a href=\"https://www.kentuckytheatre.org/summer-classics\" rel=\"noopener noreferrer\" target=\"_blank\">SUMMER CLASSICS</a> offer something for every film fan. Come see movies from your youth, introduce your kids and grandkids to the stars of Hollywood's Golden Age, or discover a new personal favorite.</p><p>This week: A lavishly produced and critically acclaimed screen adaptation of the international stage sensation tells the life-affirming story of Tevye (Topol), a poor milkman whose love, pride and faith help him face the oppression of turn-of-the century czarist Russia.</p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "c2d17232-7090-41f7-88f1-2a196683aeb3",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/ab382535-1a17-42e9-ae09-a0a0c38d8f49.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "summer-classics:-fiddler-on-the-roof",
+      "social_image": "",
+      "tags": [
+        "film",
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "",
+      "title": "Summer Classics: Fiddler on the Roof",
+      "updatedAt": "2023-05-23T03:27:58.801Z",
+      "venue_id": "dbc17929-fa2e-4453-8f31-c3d4e21e14d0",
+      "verified": true,
+      "website_link": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=289583~4bf9e7f1-1009-40cc-a9d9-a2c743b0ce02",
+      "date_times": [
+        {
+          "start_time": "2023-06-14T17:30:00.000Z",
+          "end_time": "2023-06-14T20:30:00.000Z",
+          "venue_id": "dbc17929-fa2e-4453-8f31-c3d4e21e14d0",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-14T23:15:00.000Z",
+          "end_time": "2023-06-15T02:15:00.000Z",
+          "venue_id": "dbc17929-fa2e-4453-8f31-c3d4e21e14d0",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "Enjoy LIVE musical performances from the LexFam, fun door prizes...AND, winning teams walk away with tickets to upcoming shows!",
+      "createdAt": "2023-06-04T23:44:43.440Z",
+      "description": "<p>Drinks and Snacks available from Old North Bar!</p><p>Enjoy LIVE musical performances from the LexFam, fun door prizes...AND, winning teams walk away with tickets to upcoming shows!</p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "aec8e3ca-d6be-4516-84ac-c82af8828470",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/da755cb2-7212-4ef3-8281-1b37b8fd16ac.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "the-lex-trivia-night",
+      "social_image": "",
+      "tags": [
+        "trivia",
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "",
+      "title": "The Lex Trivia Night",
+      "updatedAt": "2023-06-06T19:58:46.951Z",
+      "venue_id": "96d1e58f-181f-4d43-9d44-1453c238d593",
+      "verified": true,
+      "website_link": "",
+      "date_times": [
+        {
+          "start_time": "2023-06-14T23:00:00.000Z",
+          "end_time": "2023-06-15T01:00:00.000Z",
+          "venue_id": "96d1e58f-181f-4d43-9d44-1453c238d593",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "Join us to see sets from Dori Freeman, Adeem the Artist, Don Rogers Music, Sparky & Rhonda Rucker, Travis Stuart, LIPS, and more!",
+      "createdAt": "2023-05-10T00:52:14.494Z",
+      "description": "<p>Seedtime on the Cumberland, a free mountain arts festival, is returning for the 37th year, this time in downtown Whitesburg.</p><p>Join us to see sets from Dori Freeman, Adeem the Artist, Don Rogers Music, Sparky &amp; Rhonda Rucker, Travis Stuart, LIPS, and more! You won't want to miss it.</p><p>For more information or to get involved, contact <a href=\"mailto:seedtime@appalshop.org\" rel=\"noopener noreferrer\" target=\"_blank\">seedtime@appalshop.org</a>.</p>",
+      "eventbrite_link": null,
+      "fb_event_link": "https://www.facebook.com/events/1547964242367782",
+      "id": "b693e52d-1951-4e02-8f2b-691b44fadb35",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/c77ca028-eda5-47b7-b42f-516c529bbb69.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "seedtime-on-the-cumberland-2023",
+      "social_image": "",
+      "tags": [
+        "festival",
+        "mode:in-person",
+        "category:multi-day-event"
+      ],
+      "ticket_link": "",
+      "title": "Seedtime on the Cumberland 2023",
+      "updatedAt": "2023-05-10T11:37:41.376Z",
+      "venue_id": "e55a0d80-3fb7-11e9-b43e-456ed9f9b823",
+      "verified": true,
+      "website_link": "https://appalshop.org/seedtime",
+      "date_times": [
+        {
+          "start_time": "2023-06-16T19:00:00.000Z",
+          "end_time": "2023-06-17T03:00:00.000Z",
+          "venue_id": "e55a0d80-3fb7-11e9-b43e-456ed9f9b823",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-17T14:00:00.000Z",
+          "end_time": "2023-06-18T03:00:00.000Z",
+          "venue_id": "e55a0d80-3fb7-11e9-b43e-456ed9f9b823",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "$6.50",
+      "bitly_link": null,
+      "brief_description": "Jackie Chan puts a major Hong Kong drug dealer behind the bars practically alone, after a shooting and an impressive chase inside a slum.",
+      "createdAt": "2023-05-22T00:18:47.472Z",
+      "description": "<p>We're launching a brand new film series at <a href=\"https://www.kentuckytheatre.org/freaky-fridays\" rel=\"noopener noreferrer\" target=\"_blank\">The Kentucky Theatre</a>: once a month at 10:00pm, <em>Freaky Fridays</em> will satisfy your craving for cult film. From <em>Reefer Madness</em> to <em>Vampyros Lesbos</em> to <em>Gummo</em>, Freaky Fridays will screen the weird, the surreal, the shocking, and the just plain so-bad-it's-good.</p><p>This month: Officer Chan Ka Kui (Jackie Chan) manages to put a major Hong Kong drug dealer behind the bars practically alone, after a shooting and an impressive chase inside a slum. Now, he must protect the boss' secretary, Selina, who will testify against the gangster in court.</p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "ba5e4315-4593-4b71-824a-4fa69352683e",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/080444f6-f29b-4105-820f-d421735fa425.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "freaky-fridays:-police-story",
+      "social_image": "",
+      "tags": [
+        "film",
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "",
+      "title": "Freaky Fridays: Police Story",
+      "updatedAt": "2023-05-23T03:26:08.673Z",
+      "venue_id": "dbc17929-fa2e-4453-8f31-c3d4e21e14d0",
+      "verified": true,
+      "website_link": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=286054~4bf9e7f1-1009-40cc-a9d9-a2c743b0ce02",
+      "date_times": [
+        {
+          "start_time": "2023-06-17T02:00:00.000Z",
+          "end_time": "2023-06-17T04:00:00.000Z",
+          "venue_id": "dbc17929-fa2e-4453-8f31-c3d4e21e14d0",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "Drew Charron DJ Set. EDM/House/DnB/Club Music ",
+      "createdAt": "2023-05-22T21:19:51.033Z",
+      "description": "<p>Drew Charron DJ Set. EDM/House/DnB/Club Music&nbsp;</p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "d9551169-e45c-4d14-9da6-a9d2816be20e",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/502cb3f6-3a65-4052-8dd3-1a437e7de7b7.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "drew-charron-dj-set-at-the-roxy",
+      "social_image": "",
+      "tags": [
+        "music",
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "",
+      "title": "Drew Charron DJ Set at The Roxy",
+      "updatedAt": "2023-05-23T03:24:02.204Z",
+      "venue_id": "f51cc2e7-677e-4b73-9df5-66d3de2f7d5f",
+      "verified": true,
+      "website_link": "https://www.drewcharronmusic.com/",
+      "date_times": [
+        {
+          "start_time": "2023-06-17T03:00:00.000Z",
+          "end_time": "2023-06-17T06:00:00.000Z",
+          "venue_id": "f51cc2e7-677e-4b73-9df5-66d3de2f7d5f",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "Volunteer with us as we clean up litter and trash from the 12 miles of the Kentucky River that touches Fayette County.",
+      "createdAt": "2023-06-01T00:38:54.041Z",
+      "description": "<p>The Kentucky River Clean Sweep is a volunteer effort to clean up the 12-mile piece of the Kentucky River&nbsp;that touches Fayette County. We are cleaning up this&nbsp;tributary of the Ohio River&nbsp;<a href=\"http://www.orsanco.org/river-sweep\" rel=\"noopener noreferrer\" target=\"_blank\">with many other volunteers in Kentucky and neighboring states</a>.</p><p>Volunteers are needed to help clean up the river all morning. Breakfast, lunch and t-shirts will be provided for volunteers.</p><p>Wear sturdy shoes or boots&nbsp;and clothing that can get wet. If you have a life jacket, please bring it with you.</p><p><em>Volunteers should arrive before 10am to ensure time to go out on a boat.</em></p><p><em>If you are using GPS to locate the River Sweep, use the address 9079 Old Richmond Road, Lexington, KY 40515. There will be signs to direct you to the parking area.</em></p><p>&nbsp;We are especially in need of boats, so if you or a friend can bring a boat, that would be a great help. Contact <a href=\"mailto:jmyatt@lexingtonky.gov\" rel=\"noopener noreferrer\" target=\"_blank\">jmyatt@lexingtonky.gov</a> if you are bringing a boat and have space for additional volunteers.</p><p>All volunteers must sign a waiver to participate. <strong>Volunteers under the age of 18 must have a waiver signed by a parent or guardian.</strong> Waivers will be available on site.</p>",
+      "eventbrite_link": "https://www.eventbrite.com/e/kentucky-river-clean-sweep-2023-tickets-643028695137",
+      "fb_event_link": "https://www.facebook.com/events/178634228175858/",
+      "id": "2282807f-59f1-4315-8409-ab37316431e4",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/e7a96067-c133-49ce-be33-b9e7ce848a26.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "kentucky-river-clean-sweep",
+      "social_image": "",
+      "tags": [
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "",
+      "title": "Kentucky River Clean Sweep",
+      "updatedAt": "2023-06-01T12:23:27.168Z",
+      "venue_id": "63440925-eb44-43d5-9d8d-079e02164bbf",
+      "verified": true,
+      "website_link": "",
+      "date_times": [
+        {
+          "start_time": "2023-06-17T12:30:00.000Z",
+          "end_time": "2023-06-17T17:00:00.000Z",
+          "venue_id": "63440925-eb44-43d5-9d8d-079e02164bbf",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "Visit our galleries, and explore our hands-on learning exhibits!",
+      "createdAt": "2023-05-27T00:25:54.207Z",
+      "description": "<p>Join the LASC for free planetarium shows at 11:30 AM and 1:30 PM. Visit our galleries, and explore our hands-on learning exhibits!</p>",
+      "eventbrite_link": null,
+      "fb_event_link": "https://www.facebook.com/events/815161736989915/",
+      "id": "b93b35d0-f5e3-43c4-9818-301fcced22d3",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/53ddfa7e-3a23-49f3-acb3-3a2e0def0e07.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "lasc-saturday",
+      "social_image": "",
+      "tags": [
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "",
+      "title": "LASC Saturday",
+      "updatedAt": "2023-05-27T02:35:08.198Z",
+      "venue_id": "2c7ae750-f193-4b5f-9893-fa9d56c647ba",
+      "verified": true,
+      "website_link": "",
+      "date_times": [
+        {
+          "start_time": "2023-06-17T15:00:00.000Z",
+          "end_time": "2023-06-17T18:00:00.000Z",
+          "venue_id": "2c7ae750-f193-4b5f-9893-fa9d56c647ba",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "Free for submitters; $5-$10 suggested price for attendees",
+      "bitly_link": null,
+      "brief_description": "Submit your upcycled fashion items to Lex Creative Reuse for our gallery, or wear them to the event!",
+      "createdAt": "2023-05-31T15:24:22.779Z",
+      "description": "<p><span style=\"color: rgb(32, 33, 36);\">Come to LEX Center for Creative ReUse's Trashion Fashion show! This event </span>will be held upstairs from our shop in the LuigART Gallery on the second floor at 110 Luigart Court.</p><p>We want to see what you are creating from fabric with a previous life or even non-traditional materials that you are reclaiming and making into Wearable Art such as&nbsp;Clothing, Hats, Accessories, Bags, Shoes, Glasses etc.</p><p>If you make and sell upcycled clothing or other upcycled wearable art and would like to have a table at our Pop Up(cycled) Shop for a $10 table fee, Let us know!</p><p>There will be an Inspiration Gallery to exhibit hand-made pieces as well. Please fill out the <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSdxF2KoHcFI2kaP0Qktirohq7WrXzwkHRkx5CKOVQ-9NWeYIw/viewform\" rel=\"noopener noreferrer\" target=\"_blank\">submission form</a> if you have something to show in our gallery.</p><p>Participants/exhibitors enter free, and there will be a sliding scale ticket price ($5-$10) for other attendees.</p><p>Questions? Email <a href=\"mailto:lexcreativereuse@gmail.com\" rel=\"noopener noreferrer\" target=\"_blank\">lexcreativereuse@gmail.com</a></p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "9f8c045f-225a-4d99-ae22-d7e965139165",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/c02aca1c-7383-40b5-a655-7492a3e33f5f.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "trashion-fashion-show",
+      "social_image": "",
+      "tags": [
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "https://www.simpletix.com/e/trashion-fashion-tickets-135938",
+      "title": "Trashion Fashion Show",
+      "updatedAt": "2023-06-07T16:56:45.128Z",
+      "venue_id": "d2e6ff55-cc17-4f62-be91-0cafa0011714",
+      "verified": true,
+      "website_link": "https://docs.google.com/forms/d/e/1FAIpQLSdxF2KoHcFI2kaP0Qktirohq7WrXzwkHRkx5CKOVQ-9NWeYIw/viewform",
+      "date_times": [
+        {
+          "start_time": "2023-06-17T22:00:00.000Z",
+          "end_time": "2023-06-18T00:00:00.000Z",
+          "venue_id": "d2e6ff55-cc17-4f62-be91-0cafa0011714",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": " $10",
+      "bitly_link": null,
+      "brief_description": " ",
+      "createdAt": "2023-06-08T03:41:30.925Z",
+      "description": "<p>All ages ! Doors at 8p, music at 9p.</p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "6e42e6f0-3da1-470c-aac8-14888a64311a",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/f64c2178-2b9c-4310-afd6-ec21ade332cb.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "plague-ix,-naptaker,-&-pumpkin-guts",
+      "social_image": "",
+      "tags": [
+        "music",
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "",
+      "title": "Plague IX, Naptaker, & Pumpkin Guts",
+      "updatedAt": "2023-06-08T03:44:03.496Z",
+      "venue_id": "0314c750-42a2-11ea-abf2-8dc9e627a96d",
+      "verified": true,
+      "website_link": "",
+      "date_times": [
+        {
+          "start_time": "2023-06-18T00:00:00.000Z",
+          "end_time": "2023-06-18T03:30:00.000Z",
+          "venue_id": "0314c750-42a2-11ea-abf2-8dc9e627a96d",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "$10",
+      "bitly_link": null,
+      "brief_description": "An international photography competition including works by Ansel Adams, Imogen Cunningham, and forty renowned photographers worldwide.",
+      "createdAt": "2023-04-07T13:09:50.057Z",
+      "description": "<p>International photography&nbsp;exhibition&nbsp;including&nbsp;works by Ansel Adams,&nbsp;Imogen Cunningham, and forty renowned&nbsp;photographers&nbsp;worldwide whose visions collectively provide a unique perspective&nbsp;on compassion.</p><p>SHADES of COMPASSION photography exhibition&nbsp;also features&nbsp;<em>Linda Bruckheimer: The Other Side of the Story</em> and&nbsp;works by Ten Kentucky Photographers including Guy Mendes, James Baker Hall, and more.</p><p>Museum hours: Friday, Saturday, Sunday 10am - 4pm</p><p>Closed Friday, April 7 and Sunday, April 9 in observance of Good Friday and Easter</p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "0058ab7d-5f61-4dcb-b2ce-ffbb9838fea2",
+      "image": "https://s3-us-west-2.amazonaws.com/infinite-industries-event-images/uploads/069cd1e5-ef47-47cb-960c-719ce6121b11.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "shades-of-compassion",
+      "social_image": "",
+      "tags": [
+        "gallery",
+        "photography",
+        "mode:in-person",
+        "category:gallery-show"
+      ],
+      "ticket_link": "",
+      "title": "Shades of Compassion",
+      "updatedAt": "2023-04-07T13:27:42.398Z",
+      "venue_id": "e0583640-4b38-11e9-b43e-456ed9f9b823",
+      "verified": true,
+      "website_link": "https://www.headley-whitney.org/current",
+      "date_times": [
+        {
+          "start_time": "2023-06-18T14:00:00.000Z",
+          "end_time": "2023-06-18T20:00:00.000Z",
+          "venue_id": "e0583640-4b38-11e9-b43e-456ed9f9b823",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "Broaden your skills as a naturalist and artist",
+      "createdAt": "2023-05-12T01:41:17.414Z",
+      "description": "<p>If you have an interest or desire to broaden your skills as a naturalist and artist, come join us for these art making sessions sited within the beautiful nature preserve at Floracliff. We’ll be outside creating art!</p><p><strong>Skill level:</strong></p><p>Some experience with handling art materials is assumed. If you are a naturalist who wants to try your hand at rendering the things you love, you are welcome. If you are an artist who values the opportunity to work in a secluded, protected preserve, you are welcome. Guidance will be offered on request.</p>",
+      "eventbrite_link": "https://www.eventbrite.com/e/creating-art-in-nature-sessions-tickets-478389655337",
+      "fb_event_link": null,
+      "id": "13b74002-1fa2-4372-9481-df63cccb7389",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/8d51105d-4f4b-4ebb-a258-bd9b63e004bf.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "creating-art-in-nature-sessions",
+      "social_image": "",
+      "tags": [
+        "mode:in-person",
+        "category:multi-day-event"
+      ],
+      "ticket_link": "",
+      "title": "Creating Art in Nature Sessions",
+      "updatedAt": "2023-05-12T02:08:23.122Z",
+      "venue_id": "ef6e4db2-7449-40a9-91f4-f7bb4afdf8a3",
+      "verified": true,
+      "website_link": "https://floracliff.org/event/creating-art-in-nature-sessions/",
+      "date_times": [
+        {
+          "start_time": "2023-06-18T17:00:00.000Z",
+          "end_time": "2023-06-18T21:00:00.000Z",
+          "venue_id": "ef6e4db2-7449-40a9-91f4-f7bb4afdf8a3",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "$6.50",
+      "bitly_link": null,
+      "brief_description": "The epic saga continues as Luke Skywalker learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke.",
+      "createdAt": "2023-06-01T00:11:51.446Z",
+      "description": "<p>For almost two decades, The Kentucky Theatre has screened classic films every Wednesday (matinee and evening) from late May until early September. Over the years, this summer series has proved to be a perennial favorite. From film noir standards like <em>The Maltese Falcon</em> to classic Disney animation like <em>Pinocchio</em> and more recent classics like <em>The Empire Strikes Back</em>, the <a href=\"https://www.kentuckytheatre.org/summer-classics\" rel=\"noopener noreferrer\" target=\"_blank\">SUMMER CLASSICS</a> offer something for every film fan. Come see movies from your youth, introduce your kids and grandkids to the stars of Hollywood's Golden Age, or discover a new personal favorite.</p><p>This week: The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.</p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "8e661994-3252-4a7a-b429-488aaef23900",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/ac400bab-c929-480a-b4f4-cb8a96f16785.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "summer-classics:-the-empire-strikes-back",
+      "social_image": "",
+      "tags": [
+        "film",
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "",
+      "title": "Summer Classics: The Empire Strikes Back",
+      "updatedAt": "2023-06-01T12:22:01.837Z",
+      "venue_id": "dbc17929-fa2e-4453-8f31-c3d4e21e14d0",
+      "verified": true,
+      "website_link": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=289589~4bf9e7f1-1009-40cc-a9d9-a2c743b0ce02",
+      "date_times": [
+        {
+          "start_time": "2023-06-21T17:30:00.000Z",
+          "end_time": "2023-06-21T19:45:00.000Z",
+          "venue_id": "dbc17929-fa2e-4453-8f31-c3d4e21e14d0",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-21T23:15:00.000Z",
+          "end_time": "2023-06-22T01:30:00.000Z",
+          "venue_id": "dbc17929-fa2e-4453-8f31-c3d4e21e14d0",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "$20 ($15 students)",
+      "bitly_link": null,
+      "brief_description": "This play is an exploration on the murky line between reality and unreality. How unreality becomes a haven when real life feels dark, and the morality of our actions in our dreams.",
+      "createdAt": "2023-06-06T00:59:09.213Z",
+      "description": "<p>This story follows Fiona, an in and out of work, hobby obsessed, individual who recently dug up a metal arm. A metal arm that has evaded the life prescribed to it by its original maker, now becoming the active agent in her own life as she pursues Fiona through her dreams, unknowingly replicating the only relationship pattern she knows: obsession.</p><p>This play is an exploration on the murky line between reality and unreality. How unreality becomes a haven when real life feels dark, and the morality of our actions in our dreams.</p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "7f74fce1-43c8-4a66-8fc1-2d056dce5e7f",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/abe02331-611b-48fe-8eed-90ba91cd11fb.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "cypress-productions-presents:-actual-throat",
+      "social_image": "",
+      "tags": [
+        "theater",
+        "mode:in-person",
+        "category:multi-day-event"
+      ],
+      "ticket_link": "https://ci.ovationtix.com/36286/production/1163352",
+      "title": "Cypress Productions Presents: Actual Throat",
+      "updatedAt": "2023-06-06T19:58:32.298Z",
+      "venue_id": "28eed072-7ef6-4726-b3a4-bc7bbe0ee3a1",
+      "verified": true,
+      "website_link": "",
+      "date_times": [
+        {
+          "start_time": "2023-06-22T23:00:00.000Z",
+          "end_time": "2023-06-23T01:00:00.000Z",
+          "venue_id": "28eed072-7ef6-4726-b3a4-bc7bbe0ee3a1",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-23T23:00:00.000Z",
+          "end_time": "2023-06-24T01:00:00.000Z",
+          "venue_id": "28eed072-7ef6-4726-b3a4-bc7bbe0ee3a1",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-24T18:00:00.000Z",
+          "end_time": "2023-06-24T20:00:00.000Z",
+          "venue_id": "28eed072-7ef6-4726-b3a4-bc7bbe0ee3a1",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-24T23:00:00.000Z",
+          "end_time": "2023-06-25T01:00:00.000Z",
+          "venue_id": "28eed072-7ef6-4726-b3a4-bc7bbe0ee3a1",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "$10",
+      "bitly_link": null,
+      "brief_description": "Spring Break Forever, Friday June 23rd 6PM at Al's Bar",
+      "createdAt": "2023-06-02T19:55:32.993Z",
+      "description": "<p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">Capturing the essence of our inner youth,&nbsp;</span><em style=\"background-color: transparent; color: rgb(0, 0, 0);\">Spring Break Forever</em><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">, is a collaboration between multiple artists. A meditation on neon lit memories of a carefree fantasy land somewhere in Florida that we can’t quite touch: brightly-colored fluorescent lights, discarded toys, broken cell phones, fake tans, plastic beads, sand in your drink, the shag of that motel carpet at the Holiday Inn and the lasting sunburn from it all.</span></p><p><br></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">This event will be an experimental and spontaneous site-specific installation. The artists will work directly with one another and Al's space to create a temporary art installation for the evening.</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">&nbsp;</span></p><p><span style=\"background-color: transparent; color: rgb(0, 0, 0);\">This night of frivolity will also feature original merchandise from local artists, as well as custom airbrushed t-shirts, photo-ops, and temporary tattoos—all of the fabulous tackiness embodying the spirit of Spring Break…Forever.</span></p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "4629d461-16db-4e31-899b-f61f582ac155",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/c3eb3ea0-a1ee-4a97-9c1a-9a0d7ecc7cc9.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "spring-break-forever",
+      "social_image": "",
+      "tags": [
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "",
+      "title": "Spring Break Forever",
+      "updatedAt": "2023-06-04T00:07:22.930Z",
+      "venue_id": "63849494-a77f-4744-ab47-1c9963267513",
+      "verified": true,
+      "website_link": "",
+      "date_times": [
+        {
+          "start_time": "2023-06-23T22:00:00.000Z",
+          "end_time": "2023-06-24T06:00:00.000Z",
+          "venue_id": "63849494-a77f-4744-ab47-1c9963267513",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "It will be an incredible evening of instrumental show tunes and great times with great friends!",
+      "createdAt": "2023-06-04T23:45:49.809Z",
+      "description": "<p>It will be an incredible evening of instrumental show tunes and great times with great friends!</p><p><em>No cover charge</em></p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "d018f813-63cb-4d2b-8d89-53a96a2ca0fc",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/1d6f94db-32bf-4863-8574-173762131e5c.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "the-lex-quartet",
+      "social_image": "",
+      "tags": [
+        "music",
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "",
+      "title": "The Lex Quartet",
+      "updatedAt": "2023-06-06T19:58:54.583Z",
+      "venue_id": "c562003a-f940-41ba-ac6f-82ebfbabd702",
+      "verified": true,
+      "website_link": "",
+      "date_times": [
+        {
+          "start_time": "2023-06-23T23:00:00.000Z",
+          "end_time": "2023-06-24T01:00:00.000Z",
+          "venue_id": "c562003a-f940-41ba-ac6f-82ebfbabd702",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "The exhibit features over 100 pieces of artwork created by students from 9 local schools, showcasing their impressive skills and creativity.",
+      "createdAt": "2023-05-25T01:12:41.762Z",
+      "description": "<p>We are delighted to host our annual exhibit, the&nbsp;Youth Art Show. The exhibit features over 100 pieces of artwork created by students from 9 local schools, showcasing their impressive skills and creativity. Visit the Art Center to see this wonderful celebration of young community artists.</p><p><em>Image: Artwork by Channing Hill</em></p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "3dbd0ec7-cced-4348-9971-7102a644efc4",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/3cfe4788-be15-4378-bbfe-6d2b4222a28a.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "youth-art-show",
+      "social_image": "",
+      "tags": [
+        "gallery",
+        "mode:in-person",
+        "category:gallery-show"
+      ],
+      "ticket_link": "",
+      "title": "Youth Art Show",
+      "updatedAt": "2023-05-25T15:23:36.848Z",
+      "venue_id": "f9adb400-7cef-11ea-9036-6de817efdff1",
+      "verified": true,
+      "website_link": "https://artcenterky.org/exhibits/current-exhibits/",
+      "date_times": [
+        {
+          "start_time": "2023-06-28T15:00:00.000Z",
+          "end_time": "2023-06-28T23:00:00.000Z",
+          "venue_id": "f9adb400-7cef-11ea-9036-6de817efdff1",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "$6.50",
+      "bitly_link": null,
+      "brief_description": "Hildy (Rosalind Russell), the journalist former wife of newspaper editor Walter Burns (Cary Grant), visits his office to inform him that she's engaged and will be getting remarried the next day.",
+      "createdAt": "2023-06-01T00:14:57.447Z",
+      "description": "<p>For almost two decades, The Kentucky Theatre has screened classic films every Wednesday (matinee and evening) from late May until early September. Over the years, this summer series has proved to be a perennial favorite. From film noir standards like <em>The Maltese Falcon</em> to classic Disney animation like <em>Pinocchio</em> and more recent classics like <em>The Empire Strikes Back</em>, the <a href=\"https://www.kentuckytheatre.org/summer-classics\" rel=\"noopener noreferrer\" target=\"_blank\">SUMMER CLASSICS</a> offer something for every film fan. Come see movies from your youth, introduce your kids and grandkids to the stars of Hollywood's Golden Age, or discover a new personal favorite.</p><p>This week: Hildy (Rosalind Russell), the journalist former wife of newspaper editor Walter Burns (Cary Grant), visits his office to inform him that she's engaged and will be getting remarried the next day. Walter can't let that happen and frames the fiancé, Bruce Baldwin, for one thing after another, to keep him temporarily held in prison, while trying to steer Hildy into returning to her old job as his employee.</p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "4d910fbf-e83c-4a0a-9dcc-7e18ce969585",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/1db429a2-456b-4e57-9b51-13069e989de1.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "summer-classics:-his-girl-friday",
+      "social_image": "",
+      "tags": [
+        "film",
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "",
+      "title": "Summer Classics: His Girl Friday",
+      "updatedAt": "2023-06-01T12:22:41.648Z",
+      "venue_id": "dbc17929-fa2e-4453-8f31-c3d4e21e14d0",
+      "verified": true,
+      "website_link": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=289595~4bf9e7f1-1009-40cc-a9d9-a2c743b0ce02",
+      "date_times": [
+        {
+          "start_time": "2023-06-28T17:30:00.000Z",
+          "end_time": "2023-06-28T19:15:00.000Z",
+          "venue_id": "dbc17929-fa2e-4453-8f31-c3d4e21e14d0",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-06-28T23:15:00.000Z",
+          "end_time": "2023-06-29T01:00:00.000Z",
+          "venue_id": "dbc17929-fa2e-4453-8f31-c3d4e21e14d0",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "Drawing inspiration from being a tropical and freshwater aquarist, “Aquascapes” explores the color and movement of underwater life. ",
+      "createdAt": "2023-05-08T01:34:09.364Z",
+      "description": "<p class=\"ql-align-center\"><strong style=\"background-color: transparent;\">“Aquascapes”</strong></p><p class=\"ql-align-center\"><strong style=\"background-color: transparent;\">Artist Attic</strong></p><p class=\"ql-align-center\"><strong style=\"background-color: transparent;\">May 1 - June 30, 2023</strong></p><p class=\"ql-align-center\"><strong style=\"background-color: transparent;\">Opening May 19, 2023</strong></p><p><br></p><p><span style=\"background-color: transparent;\">Opening Friday, May 19th during the LexArts Gallery Hop is “Aquascapes” by Stevie Moore, Lexingtonian (not to be confused with the salad), 2005 UK College of Fine Arts Graduate with a Bachelors in Painting and Printmaking. Stevie’s artistic endeavors are varied - oils, digital, illustration, and murals. Educator for the Living Arts and Science Center beginning in 2003, he has hosted over 100 classes for both adults and children. He is currently an Architecture Visualization Specialist at Brandstetter Carroll.&nbsp;</span></p><p><br></p><p><em style=\"background-color: transparent;\">Stevie believes, “Art is the ability to transcribe your imagination to share with the world. It is an attempt to express, to translate, if you will, the uniqueness of how only you see the world.”&nbsp;</em></p><p><br></p><p><span style=\"background-color: transparent;\">Drawing inspiration from being a tropical and freshwater aquarist, “Aquascapes” explores the color and movement of underwater life.&nbsp;</span></p><p><br></p><p><span style=\"background-color: transparent;\">Attend Opening Night to register to win an original 5X7 oil painting. </span></p><p><br></p><p><br></p>",
+      "eventbrite_link": null,
+      "fb_event_link": "https://fb.me/e/2QZcPJQJh",
+      "id": "9c772d95-d005-405d-8043-2816ea73cf16",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/9f8965df-f9e3-4a4f-84e5-8e40d0db9e62.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "aquascapes,-new-work-by-stephen-r.-moore",
+      "social_image": "",
+      "tags": [
+        "gallery",
+        "mode:in-person",
+        "category:gallery-show"
+      ],
+      "ticket_link": "",
+      "title": "AQUASCAPES, new work by Stephen R. Moore",
+      "updatedAt": "2023-05-08T21:08:49.363Z",
+      "venue_id": "e1eb1fcd-45c3-45bc-a46e-3eb0fe42f2a4",
+      "verified": true,
+      "website_link": "https://fb.me/e/2QZcPJQJh",
+      "date_times": [
+        {
+          "start_time": "2023-06-30T21:00:00.000Z",
+          "end_time": "2023-07-01T00:00:00.000Z",
+          "venue_id": "e1eb1fcd-45c3-45bc-a46e-3eb0fe42f2a4",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "In this two-person exhibition Adrienne Dixon and Ciara LeRoy explore consumption and its effects.",
+      "createdAt": "2023-05-19T21:52:11.291Z",
+      "description": "<p>Through the practices of daily observation of the mundane, media, and self-reflection the artists create bold, colorful compositions that question systematic injustice and encourage an equitable society. Playful embroidery, paintings, and small-scale sculpture depict everyday items such as grocery lists, houseplants, and bags that investigate how each artist consumes and is consumed. </p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "c3a82a9a-b896-4867-bf42-bccb2772a68c",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/e00aef1b-0666-47cb-a205-3d2dbca0435e.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "consumption",
+      "social_image": "",
+      "tags": [
+        "mode:in-person",
+        "category:gallery-show"
+      ],
+      "ticket_link": "",
+      "title": "Consumption",
+      "updatedAt": "2023-05-19T21:59:58.857Z",
+      "venue_id": "28eed072-7ef6-4726-b3a4-bc7bbe0ee3a1",
+      "verified": true,
+      "website_link": "",
+      "date_times": [
+        {
+          "start_time": "2023-07-01T15:00:00.000Z",
+          "end_time": "2023-07-02T00:00:00.000Z",
+          "venue_id": "28eed072-7ef6-4726-b3a4-bc7bbe0ee3a1",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "Students from Bryan Station Middle, Jessie Clark, and Lexington Traditional Magnet showcase their artistic self-expression by thinking about who they are.",
+      "createdAt": "2023-05-19T22:01:43.036Z",
+      "description": "<p>People might assume who you are at a glance. Art allows you to correct those assumptions and express your identity. When words fail, gestures, symbolism, and cultural icons can fill in the gaps. The Pam Miller Downtown Arts Center is excited to announce its first Fayette County Middle </p><p>School art exhibition. </p><p>The theme of this year's show is \"Identity and Self-Expression.\" The students from Bryan Station, Jessie Clark, and Lexington Traditional Magnet showcase their artistic self-expression by thinking about who they are, what they value, their cultural heritage and traditions, and their place in the community. </p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "d2d8aac7-3465-47e8-a895-dad92822d5f1",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/3c691383-d9b6-41b2-88d8-6ea168f6fb8f.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "being-known:-identity-and-expression-of-fayette-county-middle-school-students-",
+      "social_image": "",
+      "tags": [
+        "mode:in-person",
+        "category:gallery-show"
+      ],
+      "ticket_link": "",
+      "title": "Being Known: Identity and Expression of Fayette County Middle School Students ",
+      "updatedAt": "2023-05-19T22:24:04.958Z",
+      "venue_id": "28eed072-7ef6-4726-b3a4-bc7bbe0ee3a1",
+      "verified": true,
+      "website_link": "",
+      "date_times": [
+        {
+          "start_time": "2023-07-01T15:00:00.000Z",
+          "end_time": "2023-07-02T00:00:00.000Z",
+          "venue_id": "28eed072-7ef6-4726-b3a4-bc7bbe0ee3a1",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "Join Julietta Market on the First Sundays' of Every Month for Food, Art, Immersive Experiences, and Live Music Performed by Lexington Philharmonic! (Select Days Only)",
+      "createdAt": "2023-03-03T20:00:45.336Z",
+      "description": "<p>Join Julietta Market on the First Sundays' of Every Month for Food, Art, Immersive Experiences, and Live Music Performed by Lexington Philharmonic!</p>",
+      "eventbrite_link": null,
+      "fb_event_link": "https://www.facebook.com/JuliettaMarket",
+      "id": "671ff9c6-e104-4e34-8ac3-13fba6e77575",
+      "image": "https://s3-us-west-2.amazonaws.com/infinite-industries-event-images/uploads/6e2e55c0-f583-419a-949b-47b45a80a00e.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "first-sundays'-at-julietta-market-",
+      "social_image": "",
+      "tags": [
+        "music",
+        "mode:in-person",
+        "category:multi-day-event"
+      ],
+      "ticket_link": "",
+      "title": "First Sundays' At Julietta Market ",
+      "updatedAt": "2023-03-05T14:11:09.184Z",
+      "venue_id": "fa80c250-a96f-405a-b2e2-906b5669cad5",
+      "verified": true,
+      "website_link": "https://www.juliettamarket.com",
+      "date_times": [
+        {
+          "start_time": "2023-07-02T17:00:00.000Z",
+          "end_time": "2023-07-02T21:00:00.000Z",
+          "venue_id": "fa80c250-a96f-405a-b2e2-906b5669cad5",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-08-06T17:00:00.000Z",
+          "end_time": "2023-08-06T21:00:00.000Z",
+          "venue_id": "fa80c250-a96f-405a-b2e2-906b5669cad5",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-09-03T17:00:00.000Z",
+          "end_time": "2023-09-03T21:00:00.000Z",
+          "venue_id": "fa80c250-a96f-405a-b2e2-906b5669cad5",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-10-08T17:00:00.000Z",
+          "end_time": "2023-10-08T21:00:00.000Z",
+          "venue_id": "fa80c250-a96f-405a-b2e2-906b5669cad5",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "$6.50",
+      "bitly_link": null,
+      "brief_description": "After moving to a new town, a troublemaking teen is supposed to have a clean slate, although being the new kid in town brings its own problems.",
+      "createdAt": "2023-06-01T00:17:55.743Z",
+      "description": "<p>For almost two decades, The Kentucky Theatre has screened classic films every Wednesday (matinee and evening) from late May until early September. Over the years, this summer series has proved to be a perennial favorite. From film noir standards like <em>The Maltese Falcon</em> to classic Disney animation like <em>Pinocchio</em> and more recent classics like <em>The Empire Strikes Back</em>, the <a href=\"https://www.kentuckytheatre.org/summer-classics\" rel=\"noopener noreferrer\" target=\"_blank\">SUMMER CLASSICS</a> offer something for every film fan. Come see movies from your youth, introduce your kids and grandkids to the stars of Hollywood's Golden Age, or discover a new personal favorite.</p><p>This week: After moving to a new town, troublemaking teen Jim Stark (James Dean) is supposed to have a clean slate, although being the new kid in town brings its own problems. While searching for some stability, Stark forms a bond with a disturbed classmate, Plato (Sal Mineo), and falls for local girl Judy (Natalie Wood). However, Judy is the girlfriend of neighborhood tough, Buzz (Corey Allen). When Buzz violently confronts Jim and challenges him to a drag race, the new kid's real troubles begin.</p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "b7b01976-9b1c-49c9-84ce-237afedcb67d",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/8e58c925-e21b-498d-814b-c34a83e1d5c7.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "summer-classics:-rebel-without-a-cause",
+      "social_image": "",
+      "tags": [
+        "film",
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "",
+      "title": "Summer Classics: Rebel Without A Cause",
+      "updatedAt": "2023-06-01T12:22:50.395Z",
+      "venue_id": "dbc17929-fa2e-4453-8f31-c3d4e21e14d0",
+      "verified": true,
+      "website_link": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=289599~4bf9e7f1-1009-40cc-a9d9-a2c743b0ce02",
+      "date_times": [
+        {
+          "start_time": "2023-07-05T17:30:00.000Z",
+          "end_time": "2023-07-05T19:30:00.000Z",
+          "venue_id": "dbc17929-fa2e-4453-8f31-c3d4e21e14d0",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-07-05T23:15:00.000Z",
+          "end_time": "2023-07-06T01:15:00.000Z",
+          "venue_id": "dbc17929-fa2e-4453-8f31-c3d4e21e14d0",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "Drawn from the permanent collection, this exhibition includes traditional Christian imagery as well as depictions of fallen men and women.",
+      "createdAt": "2023-02-14T01:56:35.205Z",
+      "description": "<p>Oscar Wilde said, \"Every saint has a past, and every sinner has a future,\" acknowledging that we are all works in progress, and most of us struggle with both good and at least somewhat malicious impulses over the course of our lives.&nbsp;<em>Sinners and Saints</em>&nbsp;examines both the labels and the blurred lines as artists present mixed messages in their approach to these twinned themes. Drawn from the permanent collection, this exhibition includes traditional Christian imagery as well as depictions of fallen men and women. The art ranges from the sixteenth through twentieth century and includes an exquisite Guido Reni drawing of the&nbsp;<em>Madonna and Child</em>,&nbsp;along with William Hogarth's depictions of riotous behavior on&nbsp;<em>Gin Lane</em>&nbsp;and&nbsp;<em>Beer Street</em>.&nbsp;</p><p>Historically, saintliness and sin were most often pinned to the female body, whether women bore the representation of spiritual purity or enticed men to indulge in carnal pleasure. Visually speaking, however, what the image says can be more ambiguous than the parable it allegedly portrays, calling into question the artist's intentions. In a print based on Edward Burne-Jones's painting&nbsp;<em>The Annunciation</em>,&nbsp;the hovering angel Gabriel is the only clue to the important announcement being delivered; Mary appears as a winsome young woman in clinging draperies. By contrast,&nbsp;<em>The&nbsp;Adulterous Woman</em>&nbsp;of the New Testament story is not shown in shame, but as triumphant in redemption, girded in a metal breastplate. It is easy to understand why no one cast the first stone; she looks capable of leading a crusade.</p>",
+      "eventbrite_link": "",
+      "fb_event_link": "",
+      "id": "5fddc840-d26a-4565-b326-dd644b6941fa",
+      "image": "https://s3-us-west-2.amazonaws.com/infinite-industries-event-images/uploads/1a2e677e-bc22-4ca5-af98-0bcae5e1c3a7.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "sinners-and-saints",
+      "social_image": "",
+      "tags": [
+        "gallery",
+        "mode:in-person",
+        "category:gallery-show"
+      ],
+      "ticket_link": "",
+      "title": "Sinners and Saints",
+      "updatedAt": "2023-02-15T17:01:49.279Z",
+      "venue_id": "89cd986b-382b-4bf3-95b4-9b2e42db335b",
+      "verified": true,
+      "website_link": "https://finearts.uky.edu/art-museum/events/sinners-and-saints",
+      "date_times": [
+        {
+          "start_time": "2023-07-08T16:00:00.000Z",
+          "end_time": "2023-07-08T21:00:00.000Z",
+          "venue_id": "89cd986b-382b-4bf3-95b4-9b2e42db335b",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "In the early 1950s, Ralph Eugene Meatyard and Van Deren Coke set out to photograph all the people, homes, and businesses on Georgetown Street in Lexington.",
+      "createdAt": "2023-02-14T01:47:28.532Z",
+      "description": "<p>In the early 1950s, Ralph Eugene Meatyard and Van Deren Coke set out to photograph all the people, homes, and businesses on Georgetown Street in Lexington. Together they made 150 images and exhibited thirty of them in the Lexington Camera Club's annual show in November 1956. The results are sometimes joyful, sometimes disturbing.</p><p>\"These are the people, the places, no derision shown,\" Meatyard wrote in an exhibition statement. \"There is no squalor, but rather the moments when these people are at peace with themselves. It is not distorted to show the depths, as were the W.P.A. Farm Security Photographs. It is personal with a sense of appreciation for the peaceful in the world. We have only one story to tell and it is that these people are like you and me.\"&nbsp;</p><p>Before the Newtown Pike extension, Georgetown Street ran from what is now New Circle Road to Short Street downtown and was a primarily African American neighborhood. Just as Georgetown Street has transformed over the years, so has our thinking about documentary photography and the impulse to use the camera to expose social injustice, often without the consent of its subjects. This exhibition examines the context in which two white photographers chose a lower income neighborhood occupied by people of color for a project intended to celebrate its residents.&nbsp;</p><p>Thanks to the Ralph Eugene Meatyard Estate, whose gift of twenty photographs is at the center of this exhibition.</p><p>Exhibition sponsored by <a href=\"https://www.visitlex.com/\" rel=\"noopener noreferrer\" target=\"_blank\">VisitLex</a>.</p>",
+      "eventbrite_link": "",
+      "fb_event_link": "",
+      "id": "6232464d-986c-4201-afcc-1fe8d7ed9891",
+      "image": "https://s3-us-west-2.amazonaws.com/infinite-industries-event-images/uploads/6334d117-681c-4136-81d8-f1d19707562d.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "ralph-eugene-meatyard:-georgetown-street",
+      "social_image": "",
+      "tags": [
+        "gallery",
+        "mode:in-person",
+        "category:gallery-show"
+      ],
+      "ticket_link": "",
+      "title": "Ralph Eugene Meatyard: Georgetown Street",
+      "updatedAt": "2023-02-15T17:02:27.753Z",
+      "venue_id": "89cd986b-382b-4bf3-95b4-9b2e42db335b",
+      "verified": true,
+      "website_link": "https://finearts.uky.edu/art-museum/events/ralph-eugene-meatyard-georgetown-street",
+      "date_times": [
+        {
+          "start_time": "2023-07-08T16:00:00.000Z",
+          "end_time": "2023-07-08T21:00:00.000Z",
+          "venue_id": "89cd986b-382b-4bf3-95b4-9b2e42db335b",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "This exhibition features works from the Museum's permanent collection showing women of various ages, backgrounds, and orientations.",
+      "createdAt": "2023-02-14T02:06:39.686Z",
+      "description": "<p>On June 24, 2022, the US Supreme Court overturned Roe v. Wade, the landmark piece of legislation that made access to an abortion a federal right in the United States. This action dismantled fifty years of legal protection for women and control over their reproductive health. This was not a surprise given the dispositions of the current justices, but it is another challenge among the issues of equality and respect, and gender and racial discrimination facing women today.</p><p>In solidarity with them, this exhibition features works from the Museum's permanent collection showing women of various ages, backgrounds, and orientations. Their faces and bodies reveal attitudes of confidence, anxiety, poise, and resignation. Paintings and prints of young girls by Hattie Hutchcraft Hill, Fletcher Martin, Alice Neel, and Andy Warhol are seen alongside mature women, including rural and urban subjects photographed by Doris Ulmann and Garry Winogrand. One surprising inclusion is Julien Dupré's beloved canvas, <em>In the Pasture (The Milk Maid)</em>,&nbsp;affectionately called \"the cow painting\" by many visitors. For our purposes, we draw your attention to the struggle of the female farmhand, whose efforts to control the movement of the large dairy cow in her care can be seen as a metaphor of persistence against overwhelming odds.</p><p>Along with the art on view, we have solicited opinions, information, and interpretive texts from a range of campus colleagues and community members to create an installation for contemplation and commiseration.</p>",
+      "eventbrite_link": "",
+      "fb_event_link": "",
+      "id": "d6d1922c-1849-46aa-910a-2e1aae96584d",
+      "image": "https://s3-us-west-2.amazonaws.com/infinite-industries-event-images/uploads/56f467fa-1aee-4384-9d30-2f9c598bffad.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "among-women",
+      "social_image": "",
+      "tags": [
+        "gallery",
+        "mode:in-person",
+        "category:gallery-show"
+      ],
+      "ticket_link": "",
+      "title": "Among Women",
+      "updatedAt": "2023-02-15T17:02:40.556Z",
+      "venue_id": "89cd986b-382b-4bf3-95b4-9b2e42db335b",
+      "verified": true,
+      "website_link": "https://finearts.uky.edu/art-museum/events/among-women",
+      "date_times": [
+        {
+          "start_time": "2023-07-08T16:00:00.000Z",
+          "end_time": "2023-07-08T21:00:00.000Z",
+          "venue_id": "89cd986b-382b-4bf3-95b4-9b2e42db335b",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "The re:museum exhibition is getting a re:fresh in 2023 with a new set of artworks and updated displays.  ",
+      "createdAt": "2023-02-14T01:56:52.000Z",
+      "description": "<p>The&nbsp;<em>re:museum</em>&nbsp;exhibition is getting a re:fresh in 2023 with a new set of artworks and updated displays.&nbsp;</p><p><em>re:museum</em>&nbsp;centers the Museum and our permanent collection by exhibiting a combination of artworks, educational prompts, and other incisive displays. The artworks on view in&nbsp;<em>re:museum</em>&nbsp;pull from our <a href=\"https://gallery.collectorsystems.com/public/Maggie_Bond/5126\" rel=\"noopener noreferrer\" target=\"_blank\">Digital Learning Gallery</a>, an online resource established through a UK Arts Extension Outreach Grant to connect art lovers to our collection across Kentucky and beyond. Each item on view in&nbsp;re:museum&nbsp;includes contextual background information, contemplative prompts, and activities for a variety of ages and art experience levels.&nbsp;</p><p>In addition to the artwork on display,&nbsp;<em>re:museum</em>&nbsp;also features insights into our institutional history and a peek behind the curtain on how we exhibit and preserve works of art. How high on the wall are paintings hung? How are artworks cared for when not on view? Who decides which pieces to show or acquire? Answers to these questions and more can be found throughout the exhibition.&nbsp;</p><p>If you'd like to incorporate&nbsp;re:museum&nbsp;or the Digital Learning Gallery into your curriculum, please contact education coordinator <a href=\"mailto:dan.solberg@uky.edu\" rel=\"noopener noreferrer\" target=\"_blank\">Dan Solberg</a>.</p>",
+      "eventbrite_link": "",
+      "fb_event_link": "",
+      "id": "873eff92-20a8-458f-84ee-cc5818da8f03",
+      "image": "https://s3-us-west-2.amazonaws.com/infinite-industries-event-images/uploads/523c62a0-60de-4e9d-bde8-cf95977c724c.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "-re:museum",
+      "social_image": "",
+      "tags": [
+        "gallery",
+        "category:gallery-show",
+        "mode:in-person",
+        "mode:online"
+      ],
+      "ticket_link": "",
+      "title": " re:museum",
+      "updatedAt": "2023-02-15T17:02:33.349Z",
+      "venue_id": null,
+      "verified": true,
+      "website_link": "https://finearts.uky.edu/art-museum/events/re-museum-1",
+      "date_times": [
+        {
+          "start_time": "2023-07-08T16:00:00.000Z",
+          "end_time": "2023-07-08T21:00:00.000Z",
+          "venue_id": null,
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "The return of spring means the return of one of Lexington's longest-running and most beloved concert series.",
+      "createdAt": "2023-06-04T23:56:51.380Z",
+      "description": "<p>The return of spring means the return of one of Lexington's longest-running and most beloved concert series – Big Band &amp; Jazz. With a full schedule of live music planned, concert-goers can enjoy weekly big band or jazz music at Moondance Amphitheater (May - June) and Ecton Park (July - August).&nbsp;Picnics are encouraged and patrons should bring a lawn chair or blanket for seating.</p><p>Schedule:</p><ul><li>July 11 – DiMartino/Osland Jazz Orchestra</li><li>July 18&nbsp;–&nbsp;Walnut Street Ramblers</li><li>July 25 – Miles Osland Little Big Band&nbsp;with&nbsp;Vince DiMartino</li><li>August 1 – Ross Whitaker Quintet</li><li>August 8 – Marlin McKay Quartet</li><li>August 15 – Osland/Dailiey Jazztet</li></ul><p>The series begins at <a href=\"https://infinite.industries/events/5db8bbed-fcc0-435a-a557-c53ce372f027\" rel=\"noopener noreferrer\" target=\"_blank\">Moondance Amphitheater</a> in May.</p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "0e06ffda-5375-473f-aa5e-846c09ac8bb9",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/2b8cbe10-699a-4174-b747-90bf1db513a1.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "big-band-&-jazz",
+      "social_image": "",
+      "tags": [
+        "music",
+        "mode:in-person",
+        "category:multi-day-event"
+      ],
+      "ticket_link": "",
+      "title": "Big Band & Jazz",
+      "updatedAt": "2023-06-06T19:58:13.233Z",
+      "venue_id": "001b0c82-5406-4f98-9468-3d97d677c5df",
+      "verified": true,
+      "website_link": "https://www.lexingtonky.gov/big-band-jazz",
+      "date_times": [
+        {
+          "start_time": "2023-07-11T23:00:00.000Z",
+          "end_time": "2023-07-12T00:30:00.000Z",
+          "venue_id": "001b0c82-5406-4f98-9468-3d97d677c5df",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-07-18T23:00:00.000Z",
+          "end_time": "2023-07-19T00:30:00.000Z",
+          "venue_id": "001b0c82-5406-4f98-9468-3d97d677c5df",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-07-25T23:00:00.000Z",
+          "end_time": "2023-07-26T00:30:00.000Z",
+          "venue_id": "001b0c82-5406-4f98-9468-3d97d677c5df",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-08-01T23:00:00.000Z",
+          "end_time": "2023-08-02T00:30:00.000Z",
+          "venue_id": "001b0c82-5406-4f98-9468-3d97d677c5df",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-08-08T23:00:00.000Z",
+          "end_time": "2023-08-09T00:30:00.000Z",
+          "venue_id": "001b0c82-5406-4f98-9468-3d97d677c5df",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-08-15T23:00:00.000Z",
+          "end_time": "2023-08-16T00:30:00.000Z",
+          "venue_id": "001b0c82-5406-4f98-9468-3d97d677c5df",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "Bring your lawn chairs and blankets for seating and enjoy a fun evening of great R&B, soul, funk and dance music.",
+      "createdAt": "2023-05-27T00:34:13.275Z",
+      "description": "<p>Our newest outdoor concert series brings live music to the northside! Bring your lawn chairs and blankets for seating and enjoy a fun evening of great R&amp;B, soul, funk and dance music.</p><p><strong>2023 Schedule</strong></p><ul><li>July 14 –&nbsp;Rhythm &amp; Soul</li><li>July 28 –&nbsp;1SoundBand</li><li>August 11 –&nbsp;Honeychild</li><li>August 25 –&nbsp;The Tim Talbert Project</li></ul>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "82750d6a-367b-402f-9ae5-5c770e812796",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/8702c374-16a1-4018-b4bd-70c4f633818d.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "northside-nights",
+      "social_image": "",
+      "tags": [
+        "music",
+        "mode:in-person",
+        "category:multi-day-event"
+      ],
+      "ticket_link": "",
+      "title": "Northside Nights",
+      "updatedAt": "2023-05-27T02:35:26.202Z",
+      "venue_id": "32399b06-4475-42f5-a571-f6729307ce90",
+      "verified": true,
+      "website_link": "https://www.lexingtonky.gov/northside-nights",
+      "date_times": [
+        {
+          "start_time": "2023-07-14T23:00:00.000Z",
+          "end_time": "2023-07-15T00:30:00.000Z",
+          "venue_id": "32399b06-4475-42f5-a571-f6729307ce90",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-07-28T23:00:00.000Z",
+          "end_time": "2023-07-29T00:30:00.000Z",
+          "venue_id": "32399b06-4475-42f5-a571-f6729307ce90",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-08-11T23:00:00.000Z",
+          "end_time": "2023-08-12T00:30:00.000Z",
+          "venue_id": "32399b06-4475-42f5-a571-f6729307ce90",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-08-25T23:00:00.000Z",
+          "end_time": "2023-08-26T00:30:00.000Z",
+          "venue_id": "32399b06-4475-42f5-a571-f6729307ce90",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "On HOP night, dozens of galleries, museums, artists’ studios, and creative spaces conventional-and-un, collectively throw open their doors.",
+      "createdAt": "2023-03-16T13:37:04.115Z",
+      "description": "<p>That’s LexArts HOP night, eagerly anticipated, enthusiastically attended, a choose-your-own-adventure event designed to put you in the rooms with a stimulating cross-section of local visual art.</p><p>&nbsp;</p><p>On HOP night, dozens of galleries, museums, artists’ studios, and creative spaces conventional-and-un, collectively throw open their doors. And everyone, from seasoned Hoppers to arts newbies to just-lookers, to collectors, to people simply wanting to make the scene, is welcome to wander in.</p><p>&nbsp;</p><p>HOP has something for locals and visitors alike. A chance to encounter the visual arts up close and personal. To expand horizons, cultivate taste, open eyes and minds. To browse venue after venue of unique, affordable works in a dizzying spectrum of media, materials and genres. To socialize with friends and strangers. To put faces to the artists who envision and create these works. And to maybe start a new collection or add the perfect piece to an existing one.</p><p>&nbsp;</p><p>HOP happens six times a year, because it’s more than even the most ambitious can take in on a single Friday night. And because Lexington’s vibrant visual arts scene never stands still — new exhibitions and new sites rotate in and out of an ever-changing roster — there’s always something new to experience.</p><p>&nbsp;</p><p>Some HOP sites are pop-ups, but many have regular hours that you can find in the OFFICIAL HOP GUIDE.</p><p>&nbsp;</p><p>Official HOP Guides will be available at&nbsp;<a href=\"https://www.google.com/maps/dir/''/161+N+Mill+St,+Lexington,+KY+40507/data=!4m5!4m4!1m0!1m2!1m1!1s0x884244edbef2435b:0xb093ed920a851593?sa=X&amp;ved=0ahUKEwjZyP-D96PaAhXnQ98KHek-BYgQwwUIKDAA\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(0, 167, 157);\">LexArts on Mill, 161 N. Mill</a>&nbsp;and at all participating sites.</p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "808cc11d-04b9-4df2-a957-0c35f012347a",
+      "image": "https://s3-us-west-2.amazonaws.com/infinite-industries-event-images/uploads/2aff4e38-4e1f-490f-b686-56a786bb9451.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "lexarts-gallery-hop-",
+      "social_image": "",
+      "tags": [
+        "gallery",
+        "art",
+        "mode:in-person",
+        "category:multi-day-event"
+      ],
+      "ticket_link": "",
+      "title": "LexArts Gallery HOP ",
+      "updatedAt": "2023-03-16T13:43:31.361Z",
+      "venue_id": null,
+      "verified": true,
+      "website_link": "https://lexarts.org/discover/lexarts-hop/",
+      "date_times": [
+        {
+          "start_time": "2023-07-21T21:00:00.000Z",
+          "end_time": "2023-07-22T00:00:00.000Z",
+          "venue_id": null,
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-09-15T21:00:00.000Z",
+          "end_time": "2023-09-16T00:00:00.000Z",
+          "venue_id": null,
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-11-17T22:00:00.000Z",
+          "end_time": "2023-11-18T01:00:00.000Z",
+          "venue_id": null,
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "$6.50",
+      "bitly_link": null,
+      "brief_description": "A \"metal fetishist\", driven mad by the maggots wriggling in the wound he's made to embed metal into his flesh, runs out into the night and is accidentally run down by a Japanese businessman and his girlfriend.",
+      "createdAt": "2023-05-22T00:21:08.214Z",
+      "description": "<p>We're launching a brand new film series at <a href=\"https://www.kentuckytheatre.org/freaky-fridays\" rel=\"noopener noreferrer\" target=\"_blank\">The Kentucky Theatre</a>. Once a month at 10:00pm, <em>Freaky Fridays</em> will satisfy your craving for cult film. From <em>Reefer Madness</em> to <em>Vampyros Lesbos</em> to <em>Gummo</em>, Freaky Fridays will screen the weird, the surreal, the shocking, and the just plain so-bad-it's-good.</p><p>This month: A \"metal fetishist\", driven mad by the maggots wriggling in the wound he's made to embed metal into his flesh, runs out into the night and is accidentally run down by a Japanese businessman and his girlfriend. The pair dispose of the corpse in hopes of quietly moving on with their lives. However, the businessman soon finds that he is now plagued by a vicious curse that transforms his flesh into iron.</p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "431c9575-e48e-4eaa-b37f-89a0551502b9",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/7dbdd717-7067-41e7-89d2-5e00bc596472.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "freaky-fridays:-tetsuo:-the-iron-man",
+      "social_image": "",
+      "tags": [
+        "film",
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "",
+      "title": "Freaky Fridays: Tetsuo: The Iron Man",
+      "updatedAt": "2023-05-23T03:26:35.879Z",
+      "venue_id": "dbc17929-fa2e-4453-8f31-c3d4e21e14d0",
+      "verified": true,
+      "website_link": "https://prod5.agileticketing.net/websales/pages/info.aspx?evtinfo=286100~4bf9e7f1-1009-40cc-a9d9-a2c743b0ce02",
+      "date_times": [
+        {
+          "start_time": "2023-07-22T02:00:00.000Z",
+          "end_time": "2023-07-22T03:30:00.000Z",
+          "venue_id": "dbc17929-fa2e-4453-8f31-c3d4e21e14d0",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "donation-based/pay-whay-you-can",
+      "bitly_link": null,
+      "brief_description": "Live music on Southland Drive",
+      "createdAt": "2023-04-18T22:21:30.448Z",
+      "description": "<h3><strong>May</strong></h3><p>Time to make your Memorial Day Weekend plans!&nbsp;We are bringing the party to Southland Drive with live music by T<strong>he Reverend Peyton's Big Damn Band</strong> plus Southland Jamboree Kickoff with <strong>Mama Said String Band</strong>, and <strong>The New Beckham County Ramblers</strong></p><h3>About:</h3><p>Tahlsound is a family-friendly, donation-based/pay-what-you-can concert series that takes place at 302 Southland Drive, in the Oleika Temple Great Lawn, every 4th Sunday in the months of April, May, July, August &amp; September. Patrons are invited to bring a blanket or chair and enjoy an evening of&nbsp;local and regional musicians and artists, as well as food and beverage vendors, and hands-on activities, crafts and games in the \"Tahlsound Kid's Corner.\" More information, registration and reservations for \"Friends of Tahlsound Tables\" are available at www.tahlsound.com.</p>",
+      "eventbrite_link": null,
+      "fb_event_link": "https://www.facebook.com/tahlsound",
+      "id": "ba3adcb5-a7eb-4a10-a131-d37011896ed6",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/8eb79fd3-69f1-4fe3-a0fb-42bd30be8987.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "tahlsound",
+      "social_image": "",
+      "tags": [
+        "music",
+        "festival",
+        "mode:in-person",
+        "category:multi-day-event"
+      ],
+      "ticket_link": "https://www.tahlsound.com/reservations-tickets",
+      "title": "Tahlsound",
+      "updatedAt": "2023-05-24T10:57:11.677Z",
+      "venue_id": "b502a362-142a-40bb-a696-be94600d664d",
+      "verified": true,
+      "website_link": "https://www.tahlsound.com/",
+      "date_times": [
+        {
+          "start_time": "2023-07-23T21:00:00.000Z",
+          "end_time": "2023-07-24T01:00:00.000Z",
+          "venue_id": "b502a362-142a-40bb-a696-be94600d664d",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-08-27T21:00:00.000Z",
+          "end_time": "2023-08-28T01:00:00.000Z",
+          "venue_id": "b502a362-142a-40bb-a696-be94600d664d",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        },
+        {
+          "start_time": "2023-09-24T21:00:00.000Z",
+          "end_time": "2023-09-25T01:00:00.000Z",
+          "venue_id": "b502a362-142a-40bb-a696-be94600d664d",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "$100.00 per team of 4",
+      "bitly_link": null,
+      "brief_description": "It's about to get surreal",
+      "createdAt": "2023-05-25T01:19:01.891Z",
+      "description": "<p>Are you ready for games, challenges and an exploration of your unconscious mind? Prepare your team for our latest art-centric romp around Danville!</p><p>Assemble your four person team for our latest art-centric romp around Danville! This year's team competition features games and challenges inspired by Surrealist artists such as Salvador Dali, Frida Kahlo and Max Ernst. You will earn points toward a grand prize as you move from game to game throughout Danville!&nbsp;This is no ordinary race...Expand your mind – it's about to get <em>surreal</em>!</p><p>You will need:</p><ul><li>comfortable shoes and clothing</li><li>a phone w/ camera</li><li>a spirit of adventure</li><li>a sense of humor!</li></ul><p>A hotdog snack, non-alcoholic beverage, game materials, and art supplies will be provided by the Art Center.</p><p><em>Open to ages 14+</em></p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "259c45e1-0d54-41fd-a672-642ab996886c",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/4d761211-9185-4db7-bb55-0ff9b4bff373.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "don't-dilly-dali",
+      "social_image": "",
+      "tags": [
+        "fundraiser",
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "https://www.amilia.com/store/en/art-center-of-the-bluegrass/shop/activities/4469838",
+      "title": "Don't Dilly Dali",
+      "updatedAt": "2023-05-25T15:22:12.652Z",
+      "venue_id": "f9adb400-7cef-11ea-9036-6de817efdff1",
+      "verified": true,
+      "website_link": "https://artcenterky.org/events/dont-dilly-dali/",
+      "date_times": [
+        {
+          "start_time": "2023-08-19T17:00:00.000Z",
+          "end_time": "2023-08-19T20:00:00.000Z",
+          "venue_id": "f9adb400-7cef-11ea-9036-6de817efdff1",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "$15",
+      "bitly_link": null,
+      "brief_description": "Drew Charron - Progressive/Psychadelic Rhythm and Bass. Urameshi - Math Rock/Punk Rock. Kinni Moon & Ground Control - Psych/Prog Rock",
+      "createdAt": "2023-05-22T21:23:39.862Z",
+      "description": "<p>Drew Charron - Progressive/Psychadelic Rhythm and Bass. Urameshi - Math Rock/Punk Rock. Kinni Moon &amp; Ground Control - Psych/Prog Rock</p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "6b9993f4-94e0-4b0c-8ade-54f04363e8e6",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/a7ab383e-384d-4678-8926-db188ee5296e.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "drew-charron-at-the-burl-w/-urameshi,-and-kinni-moon-&-ground-control",
+      "social_image": "",
+      "tags": [
+        "music",
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "https://theburlky.com/",
+      "title": "Drew Charron at The Burl w/ Urameshi, and Kinni Moon & Ground Control",
+      "updatedAt": "2023-05-23T03:22:30.600Z",
+      "venue_id": "d9107b10-0479-11e8-808e-07b6d0fe568b",
+      "verified": true,
+      "website_link": "https://www.drewcharronmusic.com/",
+      "date_times": [
+        {
+          "start_time": "2023-08-25T00:00:00.000Z",
+          "end_time": "2023-08-25T03:00:00.000Z",
+          "venue_id": "d9107b10-0479-11e8-808e-07b6d0fe568b",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    },
+    {
+      "admission_fee": "none",
+      "bitly_link": null,
+      "brief_description": "Celebration of reading, writing and publishing. ",
+      "createdAt": "2023-05-25T20:48:43.443Z",
+      "description": "<p><span style=\"color: rgb(102, 102, 102);\">A program of&nbsp;</span><a href=\"https://www.kyhumanities.org/\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(243, 110, 78); background-color: rgb(255, 255, 255);\"><strong>Kentucky Humanities</strong></a><span style=\"color: rgb(102, 102, 102);\">, the&nbsp;</span><strong style=\"color: rgb(102, 102, 102);\">Kentucky Book Festival</strong><span style=\"color: rgb(102, 102, 102);\">&nbsp;is a celebration of reading, writing, and publishing which takes place each fall. Festival events seek to connect book-lovers and authors, spark engaging conversations, and empower readers by providing access to new books as well as opportunities to learn more about writing in a&nbsp;</span><a href=\"https://kybookfestival.org/about-us/#policy\" rel=\"noopener noreferrer\" target=\"_blank\" style=\"color: rgb(243, 110, 78); background-color: rgb(255, 255, 255);\">fun, supportive environment</a><span style=\"color: rgb(102, 102, 102);\">. It’s the biggest bookish celebration in Kentucky!&nbsp;</span><strong style=\"color: rgb(102, 102, 102);\">Learn</strong><span style=\"color: rgb(102, 102, 102);\">&nbsp;about writing and publishing,&nbsp;</span><strong style=\"color: rgb(102, 102, 102);\">discover</strong><span style=\"color: rgb(102, 102, 102);\">&nbsp;new books,&nbsp;</span><strong style=\"color: rgb(102, 102, 102);\">make memories</strong><span style=\"color: rgb(102, 102, 102);\">&nbsp;with family and friends, and&nbsp;</span><strong style=\"color: rgb(102, 102, 102);\">celebrate</strong><span style=\"color: rgb(102, 102, 102);\">&nbsp;reading!</span></p>",
+      "eventbrite_link": null,
+      "fb_event_link": null,
+      "id": "0bcd2a6b-09aa-4ded-9929-6dd5a8e22993",
+      "image": "https://infinite-industries-event-images.s3.us-west-2.amazonaws.com/uploads/8ec46437-2519-45cf-b0b2-af663c9a3ca7.jpg",
+      "links": [],
+      "reviewed_by_org": null,
+      "slug": "kentucky-book-festival",
+      "social_image": "",
+      "tags": [
+        "Kentucky Book Festival",
+        "festival",
+        "literary arts",
+        "mode:in-person",
+        "category:single-day-event"
+      ],
+      "ticket_link": "",
+      "title": "Kentucky Book Festival",
+      "updatedAt": "2023-05-27T02:33:21.432Z",
+      "venue_id": "a91663a5-6aa6-4f34-a5e1-240e8260035f",
+      "verified": true,
+      "website_link": "https://kybookfestival.org/",
+      "date_times": [
+        {
+          "start_time": "2023-10-21T14:00:00.000Z",
+          "end_time": "2023-10-21T20:00:00.000Z",
+          "venue_id": "a91663a5-6aa6-4f34-a5e1-240e8260035f",
+          "timezone": "US/Eastern",
+          "optional_title": ""
+        }
+      ],
+      "venue": null
+    }
+  ]
+}
