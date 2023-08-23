@@ -52,7 +52,11 @@ func main() {
 			}
 			prettyPrint(event)
 		case "currentVerified":
-			events, err := client.Events.CurrentVerified()
+			var tags []string
+			if len(os.Args) > 4 {
+				tags = os.Args[4:]
+			}
+			events, err := client.Events.CurrentVerified(tags...)
 			if err != nil {
 				fmt.Fprintln(os.Stderr, err)
 				os.Exit(1)

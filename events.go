@@ -7,6 +7,10 @@ import (
 // EventsService queries the events of the II API.
 type EventsService service
 
+type EventsParams struct {
+	Tags []string `url:"tags,omitempty"`
+}
+
 // Get a specific event
 func (v *EventsService) Get(id string) (Event, error) {
 
@@ -21,13 +25,13 @@ func (v *EventsService) Get(id string) (Event, error) {
 
 }
 
-func (v *EventsService) CurrentVerified() ([]Event, error) {
+func (v *EventsService) CurrentVerified(tags ...string) ([]Event, error) {
 
-	return v.list(true, true)
+	return v.list(true, true, tags...)
 
 }
 
-func (v *EventsService) list(current, verified bool) ([]Event, error) {
+func (v *EventsService) list(current, verified bool, tags ...string) ([]Event, error) {
 
 	eventsResponse := new(EventsResponse)
 	errorResponse := new(ErrorResponse)
@@ -42,7 +46,8 @@ func (v *EventsService) list(current, verified bool) ([]Event, error) {
 		path = "non-verified"
 	}
 
-	resp, err := v.sling.New().Get(path).Receive(eventsResponse, errorResponse)
+	params := &EventsParams{Tags: tags}
+	resp, err := v.sling.New().Get(path).QueryStruct(params).Receive(eventsResponse, errorResponse)
 
 	// fmt.Printf("request: %v\n", resp.Request)
 	// fmt.Printf("response: %v\n", resp)
