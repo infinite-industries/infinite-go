@@ -55,3 +55,15 @@ func (v *EventsService) list(current, verified bool, tags ...string) ([]Event, e
 	return eventsResponse.Events, newError(resp, err, errorResponse)
 
 }
+
+// Create a new event
+func (v *EventsService) Create(evt Event) (Event, error) {
+
+	var event Event
+	errorResponse := new(ErrorResponse)
+
+	resp, err := v.sling.New().Post("").BodyJSON(evt).Receive(&event, errorResponse)
+
+	return event, newError(resp, err, errorResponse)
+
+}

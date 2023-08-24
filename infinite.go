@@ -18,31 +18,32 @@ type Version struct {
 }
 
 type Event struct {
-	ID               string     `json:"id"`
+	ID               string     `json:"id,omitempty"`
 	AdmissionFee     string     `json:"admission_fee"`
-	BitlyLink        NullString `json:"bitly_link"`
+	BitlyLink        string     `json:"bitly_link,omitempty"`
 	BriefDescription string     `json:"brief_description"`
-	CreatedAt        time.Time  `json:"createdAt"`
+	CreatedAt        *time.Time `json:"createdAt,omitempty"`
 	Description      string     `json:"description"`
 	EventbriteLink   NullString `json:"eventbrite_link"`
 	FbEventLink      NullString `json:"fb_event_link"`
 	Image            string     `json:"image"`
 	Links            []string   `json:"links"`
+	Contact          string     `json:"organizer_contact,omitempty"`
 	ReviewedByOrg    NullString `json:"reviewed_by_org"`
 	Slug             string     `json:"slug"`
-	SocialImage      string     `json:"social_image"`
+	SocialImage      NullString `json:"social_image"`
 	Tags             []string   `json:"tags"`
 	TicketLink       NullString `json:"ticket_link"`
 	Title            string     `json:"title"`
-	UpdatedAt        time.Time  `json:"updatedAt"`
+	UpdatedAt        *time.Time `json:"updatedAt,omitempty"`
 	VenueID          NullString `json:"venue_id"`
 	Verified         bool       `json:"verified"`
 	WebsiteLink      string     `json:"website_link"`
-	Venue            Venue      `json:"venue"`
+	Venue            *Venue     `json:"venue,omitempty"`
 	DateTimes        []struct {
 		StartTime time.Time `json:"start_time"`
 		EndTime   time.Time `json:"end_time"`
-		Timezone  string    `json:"timezone"`
+		Timezone  string    `json:"timezone,omitempty"`
 	} `json:"date_times"`
 }
 
