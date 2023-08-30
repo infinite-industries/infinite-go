@@ -44,9 +44,10 @@ func NewAddress() Address {
 
 type Place struct {
 	Name       string  `json:"name"`
-	Address    Address `json:"address"`
-	HasMap     string  `json:"hasMap"`
-	Identifier string  `json:"identifier"`
+	Address    Address `json:"address,omitempty"`
+	HasMap     string  `json:"hasMap,omitempty"`
+	Identifier string  `json:"identifier,omitempty"`
+	URL        string  `json:"url,omitempty"`
 	Type       string  `json:"@type"` // Place
 }
 
@@ -59,17 +60,19 @@ func NewPlace(name string) Place {
 }
 
 type Offer struct {
-	URL           string    `json:"url"`
-	Price         string    `json:"price,omitempty"`
-	PriceCurrency string    `json:"priceCurrency,omitempty"`
-	ValidFrom     time.Time `json:"validFrom"`
-	Type          string    `json:"@type"` // Offer
+	URL           string     `json:"url"`
+	Price         string     `json:"price,omitempty"`
+	PriceCurrency string     `json:"priceCurrency,omitempty"`
+	ValidFrom     *time.Time `json:"validFrom, omitempty"`
+	Type          string     `json:"@type"` // Offer
 }
 
 func NewOffer(url string) Offer {
+	now := time.Now().Round(time.Minute)
 	return Offer{
-		Type: "Offer",
-		URL:  url,
+		Type:      "Offer",
+		URL:       url,
+		ValidFrom: &now,
 	}
 }
 

@@ -1,9 +1,9 @@
-package infinite
+package client
 
 import (
-	"encoding/json"
 	"fmt"
-	"time"
+
+	"github.com/infinite-industries/infinite-go/formats/infinite"
 )
 
 const (
@@ -12,77 +12,24 @@ const (
 	defaultUserAgent = "infinite-go/" + libraryVersion
 )
 
-type Version struct {
-	Version           string   `json:"version"`
-	SupportedVersions []string `json:"supportedVersions"`
-}
-
-type Event struct {
-	ID               string     `json:"id,omitempty"`
-	AdmissionFee     string     `json:"admission_fee"`
-	BitlyLink        string     `json:"bitly_link,omitempty"`
-	BriefDescription string     `json:"brief_description"`
-	CreatedAt        *time.Time `json:"createdAt,omitempty"`
-	Description      string     `json:"description"`
-	EventbriteLink   NullString `json:"eventbrite_link"`
-	FbEventLink      NullString `json:"fb_event_link"`
-	Image            string     `json:"image"`
-	Links            []string   `json:"links"`
-	Contact          string     `json:"organizer_contact,omitempty"`
-	ReviewedByOrg    NullString `json:"reviewed_by_org"`
-	Slug             string     `json:"slug"`
-	SocialImage      NullString `json:"social_image"`
-	Tags             []string   `json:"tags"`
-	TicketLink       NullString `json:"ticket_link"`
-	Title            string     `json:"title"`
-	UpdatedAt        *time.Time `json:"updatedAt,omitempty"`
-	VenueID          NullString `json:"venue_id"`
-	Verified         bool       `json:"verified"`
-	WebsiteLink      string     `json:"website_link"`
-	Venue            *Venue     `json:"venue,omitempty"`
-	DateTimes        []struct {
-		StartTime time.Time `json:"start_time"`
-		EndTime   time.Time `json:"end_time"`
-		Timezone  string    `json:"timezone,omitempty"`
-	} `json:"date_times"`
-}
-
-type Venue struct {
-	ID            string    `json:"id"`
-	Name          string    `json:"name"`
-	Slug          string    `json:"slug"`
-	Address       string    `json:"address"`
-	GMapLink      string    `json:"g_map_link"`
-	GPSLat        float64   `json:"gps_lat"`
-	GPSLong       float64   `json:"gps_long"`
-	Street        string    `json:"street"`
-	City          string    `json:"city"`
-	State         string    `json:"state"`
-	Zip           string    `json:"zip"`
-	Neighborhood  string    `json:"neighborhood"`
-	IsSoftDeleted bool      `json:"is_soft_deleted"`
-	CreatedAt     time.Time `json:"createdAt"`
-	UpdatedAt     time.Time `json:"updatedAt"`
-}
-
 type EventResponse struct {
-	Event  Event  `json:"event"`
-	Status string `json:"status"`
+	Event  infinite.Event `json:"event"`
+	Status string         `json:"status"`
 }
 
 type EventsResponse struct {
-	Events []Event `json:"events"`
-	Status string  `json:"status"`
+	Events []infinite.Event `json:"events"`
+	Status string           `json:"status"`
 }
 
 type VenueResponse struct {
-	Venue  Venue  `json:"venue"`
-	Status string `json:"status"`
+	Venue  infinite.Venue `json:"venue"`
+	Status string         `json:"status"`
 }
 
 type VenuesResponse struct {
-	Venues []Venue `json:"venues"`
-	Status string  `json:"status"`
+	Venues []infinite.Venue `json:"venues"`
+	Status string           `json:"status"`
 }
 
 // An ErrorResponse reports the error caused by an API request
@@ -97,35 +44,4 @@ func (e *ErrorResponse) Error() string {
 		return fmt.Sprintf("service error: %d; %s;\n", e.StatusCode, e.ErrorStr)
 	}
 	return ""
-}
-
-type ListOptions struct {
-	// For paginated result sets, page of results to retrieve.
-	Page int `url:"page,omitempty"`
-	// For paginated result sets, the number of results to include per page.
-	PageSize int `url:"pagesize,omitempty"`
-}
-
-// The API can return null for a number of strings - this type helps deal with that.
-type NullString struct {
-	str string
-}
-
-// meet the fmt.Stringer interface
-func (n NullString) String() string {
-	return n.str
-}
-
-// custom json unmarshaller
-func (n *NullString) UnmarshalJSON(b []byte) error {
-	e := json.Unmarshal(b, &n.str)
-	return e
-}
-
-func (n NullString) MarshalJSON() ([]byte, error) {
-	return []byte(`"` + n.String() + `"`), nil
-}
-
-func (n NullString) MarshalText() ([]byte, error) {
-	return []byte(n.String()), nil
 }

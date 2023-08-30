@@ -4,7 +4,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	infinite "github.com/infinite-industries/infinite-go"
+	ii_client "github.com/infinite-industries/infinite-go"
+	"github.com/infinite-industries/infinite-go/formats/infinite"
 )
 
 const new_event = `
@@ -39,7 +40,7 @@ const new_event = `
 `
 
 func TestCreateEvent(t *testing.T) {
-	client := infinite.New()
+	client := ii_client.New()
 
 	e := infinite.Event{}
 

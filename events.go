@@ -1,7 +1,9 @@
-package infinite
+package client
 
 import (
 	"fmt"
+
+	"github.com/infinite-industries/infinite-go/formats/infinite"
 )
 
 // EventsService queries the events of the II API.
@@ -12,7 +14,7 @@ type EventsParams struct {
 }
 
 // Get a specific event
-func (v *EventsService) Get(id string) (Event, error) {
+func (v *EventsService) Get(id string) (infinite.Event, error) {
 
 	eventResponse := new(EventResponse)
 	errorResponse := new(ErrorResponse)
@@ -25,13 +27,13 @@ func (v *EventsService) Get(id string) (Event, error) {
 
 }
 
-func (v *EventsService) CurrentVerified(tags ...string) ([]Event, error) {
+func (v *EventsService) CurrentVerified(tags ...string) ([]infinite.Event, error) {
 
 	return v.list(true, true, tags...)
 
 }
 
-func (v *EventsService) list(current, verified bool, tags ...string) ([]Event, error) {
+func (v *EventsService) list(current, verified bool, tags ...string) ([]infinite.Event, error) {
 
 	eventsResponse := new(EventsResponse)
 	errorResponse := new(ErrorResponse)
@@ -49,17 +51,14 @@ func (v *EventsService) list(current, verified bool, tags ...string) ([]Event, e
 	params := &EventsParams{Tags: tags}
 	resp, err := v.sling.New().Get(path).QueryStruct(params).Receive(eventsResponse, errorResponse)
 
-	// fmt.Printf("request: %v\n", resp.Request)
-	// fmt.Printf("response: %v\n", resp)
-
 	return eventsResponse.Events, newError(resp, err, errorResponse)
 
 }
 
 // Create a new event
-func (v *EventsService) Create(evt Event) (Event, error) {
+func (v *EventsService) Create(evt infinite.Event) (infinite.Event, error) {
 
-	var event Event
+	var event infinite.Event
 	errorResponse := new(ErrorResponse)
 
 	resp, err := v.sling.New().Post("").BodyJSON(evt).Receive(&event, errorResponse)

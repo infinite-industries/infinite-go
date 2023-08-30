@@ -1,4 +1,4 @@
-package infinite
+package client
 
 import (
 	"fmt"

@@ -1,14 +1,16 @@
-package infinite
+package client
 
 import (
 	"fmt"
+
+	"github.com/infinite-industries/infinite-go/formats/infinite"
 )
 
 // VenuesService queries the venues of the II API.
 type VenuesService service
 
 // verify license for an organization
-func (v *VenuesService) Get(id string) (Venue, error) {
+func (v *VenuesService) Get(id string) (infinite.Venue, error) {
 
 	venueResponse := new(VenueResponse)
 	errorResponse := new(ErrorResponse)

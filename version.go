@@ -1,12 +1,16 @@
-package infinite
+package client
+
+import (
+	"github.com/infinite-industries/infinite-go/formats/infinite"
+)
 
 // VersionService queries the version of the II API.
 type VersionService service
 
 // verify license for an organization
-func (v *VersionService) Get() (Version, error) {
+func (v *VersionService) Get() (infinite.Version, error) {
 
-	var version Version
+	var version infinite.Version
 	errorResponse := new(ErrorResponse)
 
 	resp, err := v.sling.Receive(&version, errorResponse)
